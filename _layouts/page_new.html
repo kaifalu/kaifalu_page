@@ -10,7 +10,7 @@ layout: base
   <br>
   {% for post in site.posts %}
     {% if post.title contains "Track" %}
-      <li><a style="color:blue" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li> <br>
+      <li><a style="color:blue" href="{{ post.url }}{{ site.baseurl }}">{{ post.title }}</a></li> <br>
     {% endif %}
   {% endfor %}
   <div class="post-content">
