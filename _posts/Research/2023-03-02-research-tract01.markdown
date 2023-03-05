@@ -22,6 +22,7 @@ author: Kaifa Lu
 <br>
 Assessment of Modeling Framework for Micromobility
 <br>
+<br>
 
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
