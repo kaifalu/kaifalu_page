@@ -9,11 +9,11 @@ author: Kaifa Lu
 
 <h2>{{"Overview"}}</h2>
 [Microtransit](https://en.wikipedia.org/wiki/Microtransit) and [Micromobility](https://en.wikipedia.org/wiki/Micromobility) are two emerging modes of transportation to provide nearby commuters and residents with an alternative micro-mobility option, particularly over first mile and last mile. One of the design goals of developing microtransit and micromobility is to extend the geographical and demographic reach that the existing public transit network cannot cover. In this track, we aim to disentangle the impact of microtransit and micromobility on mobility landscape as follows:
-<li>{{ "Microtransit & Micromobility Usage Pattern" }}</li> <br>
-<li>{{ "Microtransit & Micromobility Demand Modelling" }}</li> <br>
-<li>{{ "Microtransit & Micromobility Facility Planning" }}</li> <br>
-<li>{{ "Relationship with Public Transit System" }}</li> <br>
-<li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li> <br>
+<li>{{ "Microtransit & Micromobility Usage Pattern" }}</li>
+<li>{{ "Microtransit & Micromobility Demand Modelling" }}</li>
+<li>{{ "Microtransit & Micromobility Facility Planning" }}</li>
+<li>{{ "Relationship with Public Transit System" }}</li>
+<li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 [Microtransit and Micromobility Inventory in the State of Florida](https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/)
