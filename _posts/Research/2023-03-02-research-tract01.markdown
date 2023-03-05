@@ -7,10 +7,27 @@ permalink: 'track01-microtransit-and-micromobility'
 author: Kaifa Lu
 ---
 
-The second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
+<h2>{{"Overview"}}</h2> <br>
+[Microtransit](https://en.wikipedia.org/wiki/Microtransit) and [Micromobility](https://en.wikipedia.org/wiki/Micromobility) are two emerging modes of transportation to provide nearby commuters and residents with an alternative micro-mobility option, particularly over first mile and last mile. One of the design goals of developing microtransit and micromobility is to extend the geographical and demographic reach that the existing public transit network cannot cover. In this track, we aim to disentangle the impact of microtransit and micromobility on mobility landscape as follows:
+    <li>{{ "Microtransit & Micromobility Usage Pattern" }}</li>
+    <li>{{ "Microtransit & Micromobility Demand Modelling" }}</li>
+    <li>{{ "Microtransit & Micromobility Facility Planning" }}</li>
+    <li>{{ "Relationship with Public Transit System" }}</li>
+    <li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li>
+<br>
+<h2>{{"Research Project"}}</h2>
+[Microtransit and Micromobility Inventory in the State of Florida](https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/)
+<br>
+[Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona](https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/)
+<br>
+Assessment of Modeling Framework for Micromobility
+<br>
 
-Traffic restriction policy is common practice across the globe to alleviate urban road congestion and air pollution, particularly in China. However, effects of TRP for non-local vehicles and elevated expressways on local and regional air quality are understudied. This study helps fill this knowledge gap.
-
-Using pollutant data by ground-based monitoring stations and field measurements, comparative research design and regression discontinuity analysis were performed to assess the effects of the non-local TRP on pollutant-specific local and regional air pollution. The authors concluded that traffic restriction significantly decreased the local and regional concentration levels of primary gaseous pollutants (e.g., NOX and CO), which also brought an increase of ozone level due to the reduced effect of NOX titration. However, the non-local TRP only exhibited limited impacts on mitigating regional particulate pollution. 
-
-By comparing environmental impacts of different TRP, the authors concluded that the non-local TRP in Shanghai was less effective in alleviating air pollution than the license plate number based TRP in Beijing and the congestion charging policy in London but presents better air quality improvements than the TRP in Mexico City. It was further concluded and recommended that raising the extent of traffic restriction policy (e.g., restricted time periods, road segments and vehicle types) and developing public transportation systems (e.g., increasing accessibility, service level, transit network density) could further enhance the TRP's potentials to improve air quality.
+<h2>{{"Publication"}}</h2> <br>
+<h3>{{"Book Chapter"}}</h3> <br>
+    1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.
+<br>
+<h3>{{"Journal Paper"}}</h3> <br>
+    1. Lu, K., Wang, H., Li, X., et al. (2022). [Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality](https://doi.org/10.1016/j.tranpol.2021.11.005). Transport Policy, 115, 62-74. 
+<h3>{{"Conference Paper"}}</h3> <br>
+    1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.
