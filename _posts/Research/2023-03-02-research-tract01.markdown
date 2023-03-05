@@ -23,7 +23,6 @@ author: Kaifa Lu
 Assessment of Modeling Framework for Micromobility
 <br>
 <br>
-
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
 1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.
