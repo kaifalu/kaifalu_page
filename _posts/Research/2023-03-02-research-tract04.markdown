@@ -7,10 +7,30 @@ permalink: 'track04-transportation-and-environment'
 author: Kaifa Lu
 ---
 
-The second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
-
-Traffic restriction policy is common practice across the globe to alleviate urban road congestion and air pollution, particularly in China. However, effects of TRP for non-local vehicles and elevated expressways on local and regional air quality are understudied. This study helps fill this knowledge gap.
-
-Using pollutant data by ground-based monitoring stations and field measurements, comparative research design and regression discontinuity analysis were performed to assess the effects of the non-local TRP on pollutant-specific local and regional air pollution. The authors concluded that traffic restriction significantly decreased the local and regional concentration levels of primary gaseous pollutants (e.g., NOX and CO), which also brought an increase of ozone level due to the reduced effect of NOX titration. However, the non-local TRP only exhibited limited impacts on mitigating regional particulate pollution. 
-
-By comparing environmental impacts of different TRP, the authors concluded that the non-local TRP in Shanghai was less effective in alleviating air pollution than the license plate number based TRP in Beijing and the congestion charging policy in London but presents better air quality improvements than the TRP in Mexico City. It was further concluded and recommended that raising the extent of traffic restriction policy (e.g., restricted time periods, road segments and vehicle types) and developing public transportation systems (e.g., increasing accessibility, service level, transit network density) could further enhance the TRP's potentials to improve air quality.
+<h2>{{"Overview"}}</h2>
+[Transportation and Environment](https://transportgeography.org/contents/chapter4/transportation-and-environment/) is the collection of environmental impacts of transportation systems, from infrastructures to vehicle operations, ranging from noise, the emission of pollutants to climate change. In this track, we aim to investigate environmental analysis of transportation infrastructure and environmental evaluation of transportation policy as follows:
+<li>{{ "Urban Viadict" }}</li>
+<li>{{ "Traffic Restriction Policy" }}</li>
+<li>{{ "Field Measurement" }}</li>
+<li>{{ "Numerical Simulation" }}</li>
+<br>
+<h2>{{"Research Project"}}</h2>
+Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment
+Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship
+Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai
+<br>
+<br>
+<h2>{{"Publication"}}</h2>
+<h4>{{"Book Chapter"}}</h4>
+1. Peng, Z., Lu, K., Jin, M., et al. (2022). [China’s Metro Explosion: Lessons from China’s Big Four Cities](http://dx.doi.org/10.4337/9781803920634). In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA.
+<br>
+<h4>{{"Journal Paper"}}</h4>
+1. Lu, K., Peng, Z. (2023). [Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon](https://doi.org/10.1016/j.scitotenv.2022.159902). Science of the Total Environment, 858, 159902.
+2. Lu, K., Wang, H., Li, X., et al. (2022). [Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality](https://doi.org/10.1016/j.tranpol.2021.11.005). Transport Policy, 115, 62-74. .
+3. Zhao, H., He, H., Lu, K., et al. (2022). [Characterizing the Distribution Pattern of Submicron and Coarse Particles on High-density Container Truck Roads through Mobile Monitoring](https://doi.org/10.1016/j.apr.2022.101561). Atmospheric Pollution Research, 13(10), 101561.
+4. Jia, Y., Lu, K., Zheng, T., et al. (2021). [Effects of Roadside Green Infrastructure on Particle Exposure: A Focus on Cyclists and Pedestrians on Pathways Between Urban Roads and Vegetative Barriers](https://doi.org/10.1016/j.apr.2021.01.017). Atmospheric Pollution Research, 12, 1-12.
+5. Lu, K., He, H., Wang, H., et al. (2020). [Characterizing Temporal and Vertical Distribution Patterns of Traffic-emitted Pollutants near an Elevated Expressway in Urban Residential Areas](https://doi.org/10.1016/j.buildenv.2020.106678). Building and Environment, 172, 106678.
+<h4>{{"Conference Paper"}}</h4>
+1. Lu, K., Peng, Z., He, H., et al. (2020). Characterization of Traffic-related Pollutant Distribution Patterns in Urban Residential Areas with an Elevated Expressway. Transportation Research Board 99th Annual Meeting, Washington D.C.
+2. Lu, D., He, H., Zhao, H., Lu, K., Peng, R. (2022). Characterizing the Traffic-related Carbon Emission Factors on Elevated Roads Based on On-road Measurements. Transportation Research Board 102nd Annual Meeting, Washington D.C.
+3. Mazimba, M., Peng, Z., He, H., Zhao, H., Lu, K. (2021). [Investigating Pedestrians’ Exposure to Traffic-Related PM and BC at Intersections: A Case Study in Shanghai, China](https://trid.trb.org/view/1759782). Transportation Research Board 100th Annual Meeting, Washington D.C.
