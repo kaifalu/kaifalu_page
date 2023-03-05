@@ -7,10 +7,25 @@ permalink: 'track03-urban-data-analytics'
 author: Kaifa Lu
 ---
 
-The second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
-
-Traffic restriction policy is common practice across the globe to alleviate urban road congestion and air pollution, particularly in China. However, effects of TRP for non-local vehicles and elevated expressways on local and regional air quality are understudied. This study helps fill this knowledge gap.
-
-Using pollutant data by ground-based monitoring stations and field measurements, comparative research design and regression discontinuity analysis were performed to assess the effects of the non-local TRP on pollutant-specific local and regional air pollution. The authors concluded that traffic restriction significantly decreased the local and regional concentration levels of primary gaseous pollutants (e.g., NOX and CO), which also brought an increase of ozone level due to the reduced effect of NOX titration. However, the non-local TRP only exhibited limited impacts on mitigating regional particulate pollution. 
-
-By comparing environmental impacts of different TRP, the authors concluded that the non-local TRP in Shanghai was less effective in alleviating air pollution than the license plate number based TRP in Beijing and the congestion charging policy in London but presents better air quality improvements than the TRP in Mexico City. It was further concluded and recommended that raising the extent of traffic restriction policy (e.g., restricted time periods, road segments and vehicle types) and developing public transportation systems (e.g., increasing accessibility, service level, transit network density) could further enhance the TRP's potentials to improve air quality.
+<h2>{{"Overview"}}</h2>
+[Urban Data Analytics](https://carto.com/blog/urban-analytics-introduction-spatial-analytics#:~:text=Urban%20analytics%20is%20the%20practice%20of%20using%20new,the%20local%20and%20global%20environment%2C%20and%20much%20more) is the practice of using new forms of data in combination with computational approaches to gain insight into urban processes and increasing data availability allows us to ask new and often complex questions about cities, their economy, how they relate to the local and global environment, and much more. In this track, we aim to present some primary modeling paradigms to analyze cities with an emphasis on analytical perspectives and urban applications, so as to provid future urban planners, designers, and engineers the critical analytical capacity to understand cities and address upcoming urban challenges:
+<li>{{ "Urban Statistical Analysis" }}</li>
+<li>{{ "Urban Network Analysis" }}</li>
+<li>{{ "Machine Learning in Cities" }}</li>
+<li>{{ "Urban Mobility and Behaviroal Analysis" }}</li>
+<br>
+<h2>{{"Research Project"}}</h2>
+Assessment of Modeling Framework for Micromobility
+<br>
+<br>
+<h2>{{"Publication"}}</h2>
+<h4>{{"Book Chapter"}}</h4>
+1. Peng, Z., Lu, K., Jin, M., et al. (2022). [China’s Metro Explosion: Lessons from China’s Big Four Cities](http://dx.doi.org/10.4337/9781803920634). In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA.
+<br>
+<h4>{{"Journal Paper"}}</h4>
+1. Zhu, X., He, H., Lu, K., et al. (2022). [Characterizing Carbon Emissions from China V and China VI Gasoline Vehicles Based on Portable Emission Measurement Systems](https://doi.org/10.1016/j.jclepro.2022.134458). Journal of Cleaner Production, 378(10), 134458.
+2. Zhao, H., He, H., Lu, K., et al. (2022). [Measuring the Impact of an Exogenous Factor: An Exponential Smoothing Model of the Response of Shipping to COVID-19](https://doi.org/10.1016/j.tranpol.2022.01.015). Transport Policy, 118, 91-100.
+3. Zhu, X., Lu, K., Peng, Z, et al. (2022). [Spatiotemporal Variations of Carbon Dioxide (CO2) at Urban Neighborhood Scale: Characterization of Distribution patterns and Contributions of Emission Sources](https://doi.org/10.1016/j.scs.2021.103646). Sustainable Cities and Society, 78, 103646.
+4. Cai, W., Wang, H., Wu, C., Lu, K., et al. (2021). [Characterizing the Interruption-Recovery Patterns of Urban Air Pollution under the COVID-19 Lockdown in China](https://doi.org/10.1016/j.buildenv.2021.108231). Building and Environment, 205, 108231.
+<h4>{{"Conference Paper"}}</h4>
+1. Zhu, X., He, H., Lu, K., et al. (2022). Characterizing Carbon Emissions from China V and China VI Gasoline Vehicles Based on Portable Emission Measurement Systems. Transportation Research Board 102nd Annual Meeting, Washington D.C.
