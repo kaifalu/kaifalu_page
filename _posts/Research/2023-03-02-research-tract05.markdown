@@ -7,10 +7,20 @@ permalink: 'track05-machinelearning-and-deeplearning'
 author: Kaifa Lu
 ---
 
-The second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
-
-Traffic restriction policy is common practice across the globe to alleviate urban road congestion and air pollution, particularly in China. However, effects of TRP for non-local vehicles and elevated expressways on local and regional air quality are understudied. This study helps fill this knowledge gap.
-
-Using pollutant data by ground-based monitoring stations and field measurements, comparative research design and regression discontinuity analysis were performed to assess the effects of the non-local TRP on pollutant-specific local and regional air pollution. The authors concluded that traffic restriction significantly decreased the local and regional concentration levels of primary gaseous pollutants (e.g., NOX and CO), which also brought an increase of ozone level due to the reduced effect of NOX titration. However, the non-local TRP only exhibited limited impacts on mitigating regional particulate pollution. 
-
-By comparing environmental impacts of different TRP, the authors concluded that the non-local TRP in Shanghai was less effective in alleviating air pollution than the license plate number based TRP in Beijing and the congestion charging policy in London but presents better air quality improvements than the TRP in Mexico City. It was further concluded and recommended that raising the extent of traffic restriction policy (e.g., restricted time periods, road segments and vehicle types) and developing public transportation systems (e.g., increasing accessibility, service level, transit network density) could further enhance the TRP's potentials to improve air quality.
+<h2>{{"Overview"}}</h2>
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) is a field of inquiry devoted to understanding and building methods that "learn" – that is, methods that leverage data to improve performance on some set of tasks. Machine learning and deep learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. In this track, we aim to present primary modeling paradigms of machine learning and deep learning in urban applications as follows:
+<li>{{ "Machine Learning in Urban Analytics" }}</li>
+<li>{{ "Machine Learning for Time Series" }}</li>
+<li>{{ "Neural Network and Deep Learning" }}</li>
+<li>{{ "Signal and Systems" }}</li>
+<br>
+<h2>{{"Research Project"}}</h2>
+Image Recognition of Handwritten Symbols Using Convolutional Neural Network (CNN) Architecture based on Edge Histogram Descriptor (EHD) and Histogram of Oriented Gradient (HOG) Methods
+<br>
+<br>
+<h2>{{"Publication"}}</h2>
+<h4>{{"Journal Paper"}}</h4>
+1. Wang, D., Wang, H., Lu, K., et al. (2022). [Regional Prediction of Ozone and Fine Particulate Matter Using Diffusion Convolutional Recurrent Neural Network](https://doi.org/10.3390/ijerph19073988). International Journal of Environmental Research and Public Health, 19(7), 3988.
+2. Wang, D., Wang, H., Li, C., Lu, K., et al. (2020). [Roadside Air Quality Forecasting in Shanghai with a Novel Sequence-to-sequence Model](https://doi.org/10.3390/ijerph17249471). International Journal of Environmental Research and Public Health, 17(24), 9471.
+<h4>{{"Conference Paper"}}</h4>
+1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.
