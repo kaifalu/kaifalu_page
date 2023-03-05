@@ -15,8 +15,8 @@ author: Kaifa Lu
 <li>{{ "Numerical Simulation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment
-Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship
+Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment <br>
+Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship <br>
 Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai
 <br>
 <br>
