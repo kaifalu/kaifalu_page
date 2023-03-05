@@ -15,7 +15,6 @@ author: Kaifa Lu
     <li>{{ "Relationship with Public Transit System" }}</li> <br>
     <li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li> <br>
 <br>
-<br>
 <h2>{{"Research Project"}}</h2>
 [Microtransit and Micromobility Inventory in the State of Florida](https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/)
 <br>
@@ -26,9 +25,9 @@ Assessment of Modeling Framework for Micromobility
 
 <h2>{{"Publication"}}</h2>
 <h3>{{"Book Chapter"}}</h3>
-    1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.
+    {{1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.}}
 <br>
 <h3>{{"Journal Paper"}}</h3>
-    1. Lu, K., Wang, H., Li, X., et al. (2022). [Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality](https://doi.org/10.1016/j.tranpol.2021.11.005). Transport Policy, 115, 62-74. 
+    {{1. Lu, K., Wang, H., Li, X., et al. (2022). [Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality](https://doi.org/10.1016/j.tranpol.2021.11.005). Transport Policy, 115, 62-74.}}
 <h3>{{"Conference Paper"}}</h3>
-    1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.
+    {{1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.}}
