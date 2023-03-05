@@ -15,7 +15,9 @@ author: Kaifa Lu
 <li>{{ "Urban Mobility and Behaviroal Analysis" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-Assessment of Modeling Framework for Micromobility
+A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data
+The Economics of Light-duty Electric Vehicle Demand
+The Impact of Electrification of Vehicles on Transportation Infrastructure
 <br>
 <br>
 <h2>{{"Publication"}}</h2>
