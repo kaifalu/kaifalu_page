@@ -15,8 +15,8 @@ author: Kaifa Lu
 <li>{{ "Urban Mobility and Behaviroal Analysis" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data
-The Economics of Light-duty Electric Vehicle Demand
+A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data <br>
+The Economics of Light-duty Electric Vehicle Demand <br>
 The Impact of Electrification of Vehicles on Transportation Infrastructure
 <br>
 <br>
