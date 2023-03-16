@@ -23,8 +23,8 @@ author: Kaifa Lu
     <td>[Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona](https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/)</td>
   </tr>
   <tr>
-    <td><img src="assets/Track01_Project01.jpg" width=270 height=480></td>
-    <td><img src="assets/Track01_Project02.jpg" width=270 height=480></td>
+    <td><img src="assets/Track01_Project01.jpg"></td>
+    <td><img src="assets/Track01_Project02.jpg"></td>
   </tr>
  </table>
 [Microtransit and Micromobility Inventory in the State of Florida](https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/)
