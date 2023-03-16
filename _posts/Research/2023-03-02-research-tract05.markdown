@@ -15,9 +15,14 @@ author: Kaifa Lu
 <li>{{ "Signal and Systems" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-Image Recognition of Handwritten Symbols Using Convolutional Neural Network (CNN) Architecture based on Edge Histogram Descriptor (EHD) and Histogram of Oriented Gradient (HOG) Methods
-<br>
-<br>
+<table>
+  <tr>
+    <td>Image Recognition of Handwritten Symbols Using Convolutional Neural Network (CNN) Architecture based on Edge Histogram Descriptor (EHD) and Histogram of Oriented Gradient (HOG) Methods</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track02_Project01.jpg"></td>
+  </tr>
+ </table>
 <h2>{{"Publication"}}</h2>
 <h4>{{"Journal Paper"}}</h4>
 1. Wang, D., Wang, H., Lu, K., et al. (2022). [Regional Prediction of Ozone and Fine Particulate Matter Using Diffusion Convolutional Recurrent Neural Network](https://doi.org/10.3390/ijerph19073988). International Journal of Environmental Research and Public Health, 19(7), 3988.
