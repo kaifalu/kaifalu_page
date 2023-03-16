@@ -18,18 +18,18 @@ author: Kaifa Lu
 <table>
   <tr>
     <td>A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data</td>
-    <td>The Economics of Light-duty Electric Vehicle Demand</td>
   </tr>
   <tr>
     <td><img src="assets/Track03_Project01.jpg"></td>
-    <td><img src="assets/Track03_Project02.jpg"></td>
   </tr>
  </table>
 <table>
   <tr>
+    <td>The Economics of Light-duty Electric Vehicle Demand</td>
     <td>The Impact of Electrification of Vehicles on Transportation Infrastructure</td>
   </tr>
   <tr>
+    <td><img src="assets/Track03_Project02.jpg"></td>
     <td><img src="assets/Track03_Project03.jpg"></td>
   </tr>
  </table>
