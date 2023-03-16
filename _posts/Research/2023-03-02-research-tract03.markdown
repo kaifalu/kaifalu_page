@@ -15,11 +15,24 @@ author: Kaifa Lu
 <li>{{ "Urban Mobility and Behaviroal Analysis" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data <br>
-The Economics of Light-duty Electric Vehicle Demand <br>
-The Impact of Electrification of Vehicles on Transportation Infrastructure
-<br>
-<br>
+<table>
+  <tr>
+    <td>A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data</td>
+    <td>The Economics of Light-duty Electric Vehicle Demand</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track03_Project01.jpg"></td>
+    <td><img src="assets/Track03_Project02.jpg"></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>The Impact of Electrification of Vehicles on Transportation Infrastructure</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track03_Project03.jpg"></td>
+  </tr>
+ </table>
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
 1. Peng, Z., Lu, K., Jin, M., et al. (2022). [China’s Metro Explosion: Lessons from China’s Big Four Cities](http://dx.doi.org/10.4337/9781803920634). In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA.
