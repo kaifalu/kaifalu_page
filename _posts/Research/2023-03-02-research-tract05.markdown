@@ -20,7 +20,7 @@ author: Kaifa Lu
     <td>Image Recognition of Handwritten Symbols Using Convolutional Neural Network (CNN) Architecture based on Edge Histogram Descriptor (EHD) and Histogram of Oriented Gradient (HOG) Methods</td>
   </tr>
   <tr>
-    <td><img src="assets/Track02_Project01.jpg"></td>
+    <td><img src="assets/Track05_Project01.jpg"></td>
   </tr>
  </table>
 <h2>{{"Publication"}}</h2>
