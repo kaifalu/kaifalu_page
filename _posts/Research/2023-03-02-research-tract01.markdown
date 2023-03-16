@@ -27,12 +27,15 @@ author: Kaifa Lu
     <td><img src="assets/Track01_Project02.jpg"></td>
   </tr>
  </table>
-[Microtransit and Micromobility Inventory in the State of Florida](https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/)
 <br>
-[Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona](https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/)
-<br>
-Assessment of Modeling Framework for Micromobility
-<br>
+<table>
+  <tr>
+    <td>Assessment of Modeling Framework for Micromobility</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track01_Project03.jpg"></td>
+  </tr>
+ </table>
 <br>
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
