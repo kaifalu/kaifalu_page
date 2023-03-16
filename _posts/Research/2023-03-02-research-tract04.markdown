@@ -15,11 +15,24 @@ author: Kaifa Lu
 <li>{{ "Numerical Simulation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment <br>
-Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship <br>
-Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai
-<br>
-<br>
+<table>
+  <tr>
+    <td>Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment</td>
+    <td>Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track04_Project01.jpg"></td>
+    <td><img src="assets/Track04_Project02.jpg"></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track04_Project03.jpg"></td>
+  </tr>
+ </table>
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
 1. Peng, Z., Lu, K., Jin, M., et al. (2022). [China’s Metro Explosion: Lessons from China’s Big Four Cities](http://dx.doi.org/10.4337/9781803920634). In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA.
