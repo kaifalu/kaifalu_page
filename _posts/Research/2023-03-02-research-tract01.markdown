@@ -16,7 +16,6 @@ author: Kaifa Lu
 <li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<img src="assets/Track01_Project1.jpg" align="right" width="100px"/>
 <table>
   <tr>
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/" }}">Microtransit and Micromobility Inventory in the State of Florida</a></td>
