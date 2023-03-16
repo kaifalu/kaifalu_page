@@ -15,8 +15,14 @@ author: Kaifa Lu
 <li>{{ "Prediction of Mobility Resilience" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-Modeling Florida’s Highway Network Resilience Against Sea Level Rise and Hurricanes
-<br>
+<table>
+  <tr>
+    <td>Modeling Florida’s Highway Network Resilience Against Sea Level Rise and Hurricanes</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track02_Project01.jpg"></td>
+  </tr>
+ </table>
 <br>
 <h2>{{"Publication"}}</h2>
 <h4>{{"Book Chapter"}}</h4>
