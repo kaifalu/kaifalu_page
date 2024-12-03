@@ -1,11 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# ![image-title-here](/assets/Img/transportation-network.jpg){:class="img-responsive"}
 
 layout: home_2
 ---
-
-# ![image-title-here](/assets/Img/transportation-network.jpg){:class="img-responsive"}
 
 <h1>{{"Introduction"}}</h1>
 <img src="assets/Profile.jpg" align="right" width="100px"/>
