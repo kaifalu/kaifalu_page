@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /aboutme/
+title: Contact
+permalink: /contact/
 date:   2023-03-03 10:01:10 -0500
 ---
 
