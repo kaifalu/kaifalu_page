@@ -5,7 +5,7 @@
 layout: home_2
 ---
 
-![image-title-here](/assets/Img/transportation-network.jpg){:class="img-responsive"}
+# ![image-title-here](/assets/Img/transportation-network.jpg){:class="img-responsive"}
 
 <h1>{{"Introduction"}}</h1>
 <img src="assets/Profile.jpg" align="right" width="100px"/>
