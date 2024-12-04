@@ -14,7 +14,7 @@ layout: home_2
     <figcaption style="font-size: 0.9em; color: #666;line-height: 1.5;">My photo in 2021</figcaption>
   </figure>
   <div>
-    <span style="font-weight: bold;font-size: 1.5em;line-height: 1.5;">Kaifa Lu</span>
+    <span style="font-weight: bold;font-size: 1.25em;line-height: 1.5;">Kaifa Lu</span>
     <style>
       p {
         line-height: 0.85;
@@ -57,7 +57,7 @@ layout: home_2
         padding-left: 20px;
       }
     </style>
-<p1>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is **_"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"_**. My research interest includes:</p1>
+<p1>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is <em><i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i></em>. My research interest includes:</p1>
 <br>
 <li>Microtransit & Micromobility</li>
 <li>Urban planning AI</li>
