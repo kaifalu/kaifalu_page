@@ -18,12 +18,11 @@ layout: home_2
 <figure class="left">
   <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
   <figcaption>A photo of me taken in 2021. </figcaption>
-  Postdoctoral Associate at [Urban AI Lab](http://urbanailab.com//){:target="_blank"}, University of Florida, USA
 </figure>
 
 # Kaifa Lu
 
-
+Postdoctoral Associate at [Urban AI Lab](http://urbanailab.com//){:target="_blank"}, University of Florida, USA
 Ph.D. (2022) in Civil Engineering, Postdoc, McGill University, Canada
 M.S. (2018) in Transportation Engineering, Harbin Institute of Technology, China
 B.Eng. (2016) in Traffic Engineering, Harbin Institute of Technology, China
