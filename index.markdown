@@ -44,16 +44,15 @@ layout: home_2
     </a>
   </div>
 </div>
-<br>
 
 -----------
 <h2>{{"Introduction"}}</h2>
 <style>
       p {
-        line-height: 1;
+        line-height: 1.5;
       }
       li {
-        padding-left: 10px;
+        padding-left: 20px;
       }
     </style>
 <p>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is *"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"*. My research interest includes:</p>
