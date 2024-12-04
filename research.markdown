@@ -1,7 +1,7 @@
 ---
 layout: page_new
-title: Research Interests
-permalink: /researchinterests/
+title: Research
+permalink: /research/
 date:   2023-03-03 10:05:10 -0500
 ---
 
