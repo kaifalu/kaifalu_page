@@ -12,56 +12,38 @@
 # <a href="assets/Kaifa-Lu-CV-24_1203.pdf" class="button">CV download</a>
 # <br>
 
-# <figure class="left">
-#  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
-#  <figcaption>A photo of me taken in 2021. </figcaption>
-# </figure> home_2
-
 layout: home_2
 ---
 
 <div style="display: flex; align-items: center;">
   <img src="assets/Portrait_Kaifa.jpg" alt="Your Photo" style="width: 200px; margin-right: 20px; border-radius: 8px;">
   <div>
+    **Kaifa Lu**
     <p>2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA</p>
     <p>2021.08 - 2024.08 M.S. in Electrical and Computer Engineering, University of Florida, USA</p>
     <p>2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China</p>
     <p>2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China</p>
+    <a href="mailto:kaifa.lu@ufl.edu" style="text-decoration: none; color: inherit;">
+    <img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span>Email me</span>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" style="text-decoration: none; color: inherit;">
+    <img src="assets/google-scholar.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span>Visit Google Scholar</span>
+    </a>
+    <a href="https://www.researchgate.net/profile/Lu-Kaifa" style="text-decoration: none; color: inherit;">
+    <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span>Visit ResearchGate</span>
+    </a>
+    <a href="https://github.com/kaifalu917" style="text-decoration: none; color: inherit;">
+    <img src="assets/github-brands-solid.svg" alt="Github" class="icon" title="Visit Github" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span>Visit Github</span>
+    </a>
+    <a href="https://www.linkedin.com/in/kaifa-lu-828676225/" style="text-decoration: none; color: inherit;">
+    <img src="assets/linkedin-brands-solid.svg" alt="LinkedIn" class="icon" title="Visit linkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span>Visit LinkedIn</span>
+    </a>
   </div>
-</div>
-
-<img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
-**Kaifa Lu**
-
-2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA
-<br>
-2021.08 - 2024.08 M.S. in Electrical and Computer Engineering, University of Florida, USA
-<br>
-2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China 
-<br>
-2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China
-<br> 
-
-<div style="display: flex; align-items: center;">
-<a href="mailto:kaifa.lu@ufl.edu" target="_blank">
-<img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="margin-right:3px">
-</a>
-
-# <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" target="_blank">
-# <img src="assets/google-scholar-square.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="margin-right:3px">
-# </a>
-
-# <a href="https://www.researchgate.net/profile/Lu-Kaifa" target="_blank">
-# <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="margin-right:3px">
-# </a>
-
-# <a href="https://github.com/kaifalu917" target="_blank">
-# <img src="assets/github-brands-solid.svg" alt="GitHub" class="icon" title="Visit GitHub" style="margin-right:3px">
-# </a>
-
-<a href="https://www.linkedin.com/in/kaifa-lu-828676225/" target="_blank">
-<img src="assets/linkedin-brands-solid.svg" alt="LinkedIn" class="icon" title="Visit LinkedIn" style="margin-right:3px">
-</a>
 </div>
 
 -----------
