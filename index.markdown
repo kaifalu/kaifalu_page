@@ -45,17 +45,27 @@ layout: home_2
   </div>
 </div>
 <br>
+
 -----------
 <h2>{{"Introduction"}}</h2>
-I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is *"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"*. My research interest includes:
+<style>
+      p {
+        line-height: 1;
+      }
+      li {
+        padding-left: 10px;
+      }
+    </style>
+<p>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is *"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"*. My research interest includes:</p>
 <li>Microtransit & Micromobility</li>
 <li>Urban planning AI</li>
-<li>Machine learning, deep learning, and reinforcement learning</li>
 <li>Urban resilience</li>
+<li>Machine learning, deep learning, and reinforcement learning</li>
 <li>Environmental planning (adaptation planning for climate change)</li>
 <li>Analysis and evaluation of transportation policy</li>
 <li>Transportation network modeling and optimization</li>
 <li>Environmental analysis of transportation infrastructure</li>
 <br>
+
 -----------
 <h2>{{"Newsletter Posts"}}</h2>
