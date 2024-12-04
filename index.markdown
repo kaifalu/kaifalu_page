@@ -74,15 +74,10 @@ layout: home_2
 -----------
 <br>
 <h2>{{"Selected Publications"}}</h2>
-<li>Peng, Z., Lu, K., Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. Journal of Planning Education and Research, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>. </li>
-<li>Urban planning AI</li>
-<li>Urban resilience</li>
-<li>Environmental Planning</li>
-<li>Machine learning, deep learning, and reinforcement learning</li>
-<li>Adaptation planning for climate change</li>
-<li>Analysis and evaluation of transportation policy</li>
-<li>Transportation network modeling and optimization</li>
-<li>Environmental analysis of transportation infrastructure</li>
+<li><em>Urban Planning AI</em>: Peng, Z., <em>Lu, K.</em>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. Journal of Planning Education and Research, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
+<li><em>Transportation Planning</em>: <em>Lu, K.</em>, Peng, Z. (2023). Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon. Science of the Total Environment, 858, 159902 <a href="https://doi.org/10.1016/j.scitotenv.2022.159902">[Text]</a>.</li>
+<li><em>Transportation Policy</em>: <em>Lu, K.</em>, Wang, H., Li, X., et al. (2022). Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality. Transport Policy, 115, 62-74 <a href="https://doi.org/10.1016/j.tranpol.2021.11.005">[Text]</a>.</li>
+<li><em>Environment Planning</em>: <em>Lu, K.</em>, He, H., Wang, H., et al. (2020). Characterizing Temporal and Vertical Distribution Patterns of Traffic-emitted Pollutants Near an Elevated Expressway in Urban Residential Areas. Building and Environment, 172, 106678 <a href="[https://doi.org/10.1177/0739456X231180568](https://doi.org/10.1016/j.buildenv.2020.106678)">[Text]</a>.</li>
 <br>
 
 -----------
