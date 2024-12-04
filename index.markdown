@@ -15,9 +15,9 @@
 # <figure class="left">
 #  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
 #  <figcaption>A photo of me taken in 2021. </figcaption>
-# </figure>
+# </figure> home_2
 
-layout: home_2
+layout: initial
 ---
 
 <img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
@@ -31,6 +31,11 @@ layout: home_2
 <br>
 2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China
 <br>
+
+<figure class="left">
+  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
+  <figcaption>A photo of me taken in 2021. </figcaption>
+</figure>  
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:kaifa.lu@ufl.edu" target="_blank">
