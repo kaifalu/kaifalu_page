@@ -32,17 +32,17 @@ B.Eng. (2016) in Traffic Engineering, Harbin Institute of Technology, China
 <img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="margin-right:3px">
 </a>
 
-<a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" target="_blank">
-<img src="assets/google-scholar-square.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="margin-right:3px">
-</a>
+# <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" target="_blank">
+# <img src="assets/google-scholar-square.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="margin-right:3px">
+# </a>
 
-<a href="https://www.researchgate.net/profile/Lu-Kaifa" target="_blank">
-<img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="margin-right:3px">
-</a>
+# <a href="https://www.researchgate.net/profile/Lu-Kaifa" target="_blank">
+# <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="margin-right:3px">
+# </a>
 
-<a href="https://github.com/kaifalu917" target="_blank">
-<img src="assets/github-brands-solid.svg" alt="GitHub" class="icon" title="Visit GitHub" style="margin-right:3px">
-</a>
+# <a href="https://github.com/kaifalu917" target="_blank">
+# <img src="assets/github-brands-solid.svg" alt="GitHub" class="icon" title="Visit GitHub" style="margin-right:3px">
+# </a>
 
 <a href="https://www.linkedin.com/in/kaifa-lu-828676225/" target="_blank">
 <img src="assets/linkedin-brands-solid.svg" alt="LinkedIn" class="icon" title="Visit LinkedIn" style="margin-right:3px">
