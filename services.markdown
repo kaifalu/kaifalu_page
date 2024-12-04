@@ -7,11 +7,30 @@ date:   2023-03-03 10:05:10 -0500
 
 
 <br>
+--------------
+<h2>{{"Reviewers"}}</h2>
+<style>
+      p1 {
+        line-height: 2;
+      }
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+<li>Travel Behaviour and Society</li>
+<li>Journal of Environmental Management</li>
+<li>Humanities and Social Sciences Communications</li>
+<li>Environmental Research</li>
+<li>Air Quality, Atmosphere & Health</li>
+<li>Stochastic Environmental Research and Risk Assessment</li>
 <br>
+
+--------------
+<h2>{{"Affiliations"}}</h2>
+<li>International Association for China Planning (IACP), Student Member</li>
+<li>International Center for Adaptation Planning and Design (iAdapt), Member</li>
+<li>University of Florida Transportation Institute (UFTI), Student Member</li>
+<li>The Committee on Extreme Weather and Climate Change Adaptation (AMR50), Friend Member</li>
 <br>
-You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/) <br>
-You can find my research/publications at:
-[GoogleScholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7SjQ_GCjudiMAsdMSj3Nm3lay84-_MzCzV8p5srIvzk8VH5trZUg90W9v0pT-_QJPnlm7djpP2YW69s9hCmBGEZokg3w&user=a8eAKS8AAAAJ) /
-[ResearchGate](https://www.researchgate.net/profile/Lu-Kaifa) <br>
-You can find my source codes for maching learning at GitHub:
-[Github](https://github.com/kaifalu917)
