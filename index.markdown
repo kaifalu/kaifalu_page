@@ -10,7 +10,7 @@ layout: home_2
 
 <div style="display: flex; align-items: center;">
   <figure style="text-align: center;">
-    <img src="assets/Portrait_Kaifa.jpg" alt="Kaifa" style="width: 180px; margin-right: 12px; border-radius: 4px;">
+    <img src="assets/Portrait_Kaifa.jpg" alt="Kaifa" style="width: 170px; margin-right: 12px; border-radius: 4px;">
     <figcaption style="font-size: 0.9em; color: #666;line-height: 1.5;">A photo of me taken in 2021</figcaption>
   </figure>
   <div>
