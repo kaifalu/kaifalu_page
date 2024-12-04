@@ -2,13 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # ![image-title-here](/assets/Img/transportation-network.jpg){:class="img-responsive"}
-# <h1>{{"Introduction"}}</h1>
-# <img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
-# <li>{{ "Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA, 2021.08 - 2025.07(expected)" }}</li>
-# <li>{{ "M.S. in Electrical and Computer Engineering, University of Florida, USA 2021.08 - 2024.08 "}}</li>
-# <li>{{ "M.S. in Transportation Engineering, Shanghai Jiao Tong University, China, 2018.09-2021.03 "}}</li>
-# <li>{{ "B.S. in Transportation Engineering, Central South University, China, 2014.09-2018.07 "}}</li>
-# <br clear="right"/>
 # <a href="assets/Kaifa-Lu-CV-24_1203.pdf" class="button">CV download</a>
 # <br>
 
@@ -25,23 +18,18 @@ layout: home_2
     <p>2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China</p>
     <a href="mailto:kaifa.lu@ufl.edu" style="text-decoration: none; color: inherit;">
     <img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span>Email me</span>
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" style="text-decoration: none; color: inherit;">
     <img src="assets/google-scholar.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span>Visit Google Scholar</span>
     </a>
     <a href="https://www.researchgate.net/profile/Lu-Kaifa" style="text-decoration: none; color: inherit;">
     <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span>Visit ResearchGate</span>
     </a>
     <a href="https://github.com/kaifalu917" style="text-decoration: none; color: inherit;">
     <img src="assets/github-brands-solid.svg" alt="Github" class="icon" title="Visit Github" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span>Visit Github</span>
     </a>
     <a href="https://www.linkedin.com/in/kaifa-lu-828676225/" style="text-decoration: none; color: inherit;">
     <img src="assets/linkedin-brands-solid.svg" alt="LinkedIn" class="icon" title="Visit linkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span>Visit LinkedIn</span>
     </a>
   </div>
 </div>
