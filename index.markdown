@@ -7,8 +7,8 @@ layout: home_2
 ---
 
 <h1>{{"Introduction"}}</h1>
-<img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
-<li>{{ "Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA, 2021.08 - now" }}</li>
+<img src="assets/Portrait_Kaifa.jpg" align="left" width="100px"/>
+<li>{{ "Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA, 2021.08 - 2025.07(expected)" }}</li>
 <li>{{ "M.S. in Electrical and Computer Engineering, University of Florida, USA 2021.08 - 2024.08 "}}</li>
 <li>{{ "M.S. in Transportation Engineering, Shanghai Jiao Tong University, China, 2018.09-2021.03 "}}</li>
 <li>{{ "B.S. in Transportation Engineering, Central South University, China, 2014.09-2018.07 "}}</li>
