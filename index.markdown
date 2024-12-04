@@ -20,6 +20,16 @@
 layout: home_2
 ---
 
+<div style="display: flex; align-items: center;">
+  <img src="assets/Portrait_Kaifa.jpg" alt="Your Photo" style="width: 200px; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <p>2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA</p>
+    <p>2021.08 - 2024.08 M.S. in Electrical and Computer Engineering, University of Florida, USA</p>
+    <p>2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China</p>
+    <p>2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China</p>
+  </div>
+</div>
+
 <img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
 **Kaifa Lu**
 
