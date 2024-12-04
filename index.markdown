@@ -12,21 +12,21 @@
 # <a href="assets/Kaifa-Lu-CV-24_1203.pdf" class="button">CV download</a>
 # <br>
 
+# <figure class="left">
+#  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
+#  <figcaption>A photo of me taken in 2021. </figcaption>
+# </figure>
+
 layout: home_2
 ---
 
-<figure class="left">
-  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
-  <figcaption>A photo of me taken in 2021. </figcaption>
-  <li>{{Postdoctoral Associate at [Urban AI Lab](http://urbanailab.com//){:target="_blank"}, University of Florida, USA}}</li>
-</figure>
-
+<img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
 # Kaifa Lu
 
-
-Ph.D. (2022) in Civil Engineering, Postdoc, McGill University, Canada
-M.S. (2018) in Transportation Engineering, Harbin Institute of Technology, China
-B.Eng. (2016) in Traffic Engineering, Harbin Institute of Technology, China
+2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA
+2021.08 - 2024.08 M.S. in Electrical and Computer Engineering, University of Florida, USA
+2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China 
+2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:kaifa.lu@ufl.edu" target="_blank">
