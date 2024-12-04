@@ -44,6 +44,7 @@ layout: home_2
     </a>
   </div>
 </div>
+<br>
 
 -----------
 <h2>{{"Introduction"}}</h2>
@@ -67,4 +68,10 @@ layout: home_2
 <br>
 
 -----------
-<h2>{{"Newsletter Posts"}}</h2>
+<h2>{{"News"}}</h2>
+<br>
+
+-----------
+<h2>{{"Selected Publications"}}</h2>
+
+
