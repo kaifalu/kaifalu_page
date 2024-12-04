@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Persistence is Victory!
 baseurl: "/kaifalu_page" # the subpath of your site, e.g. /blog  kaifalu_blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kaifalu917
-instagram_username: kaifalu917
-linkedin_username: Kaifa Lu
+# github_username:  kaifalu917
+# instagram_username: kaifalu917
+# linkedin_username: Kaifa Lu
 
 # Build settings
 theme: minima
@@ -45,7 +45,7 @@ defaults:
 
 defaults:
   - scope:
-      path: "assets/Img"
+      path: "assets/"
     values:
         image: true
 
