@@ -1,5 +1,5 @@
 ---
-layout: page_new
+layout: page
 title: Services
 permalink: /services/
 date:   2023-03-03 10:05:10 -0500
