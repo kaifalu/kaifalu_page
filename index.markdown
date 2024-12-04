@@ -12,10 +12,10 @@ layout: home_2
   <img src="assets/Portrait_Kaifa.jpg" alt="Your Photo" style="width: 200px; margin-right: 20px; border-radius: 8px;">
   <div>
     <span style="font-weight: bold;font-size: 1.5em;">Kaifa Lu</span>
-    <p>2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA</p>
-    <p>2021.08 - 2024.08 M.S. in Electrical and Computer Engineering, University of Florida, USA</p>
-    <p>2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China</p>
-    <p>2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China</p>
+    <p>Ph.D. Candidate (2025) in Urban and Regional Planning, University of Florida, USA</p>
+    <p>M.S. (2024) in Electrical and Computer Engineering, University of Florida, USA</p>
+    <p>M.S. (2021) in Transportation Engineering, Shanghai Jiao Tong University, China</p>
+    <p>B.S. (2018) in Transportation Engineering, Central South University, China</p>
     <a href="mailto:kaifa.lu@ufl.edu" style="text-decoration: none; color: inherit;">
     <img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
