@@ -17,7 +17,7 @@
 #  <figcaption>A photo of me taken in 2021. </figcaption>
 # </figure> home_2
 
-layout: initial
+layout: home_2
 ---
 
 <img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
