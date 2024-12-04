@@ -51,11 +51,11 @@ layout: home_2
 <h2>{{"Introduction"}}</h2>
 <style>
       p1 {
-        line-height: 1.5;
+        line-height: 2;
       }
       li {
-        padding-left: 20px;
-        line-height: 1.5;
+        padding-left: 40px;
+        line-height: 2;
         text-indent: -20px;
       }
     </style>
