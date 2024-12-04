@@ -21,7 +21,7 @@ layout: home_2
 ---
 
 <img src="assets/Portrait_Kaifa.jpg" align="left" width="200px"/>
-# Kaifa Lu
+**Kaifa Lu**
 
 2021.08 - 2025.07(expected) Ph.D. Candidate in Urban and Regional Planning, University of Florida, USA
 <br>
@@ -30,12 +30,7 @@ layout: home_2
 2018.09-2021.03 M.S. in Transportation Engineering, Shanghai Jiao Tong University, China 
 <br>
 2014.09-2018.07 B.S. in Transportation Engineering, Central South University, China
-<br>
-
-<figure class="left">
-  <img src="assets/Portrait_Kaifa.jpg" width="200" alt="My portrait"/>
-  <figcaption>A photo of me taken in 2021. </figcaption>
-</figure>  
+<br> 
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:kaifa.lu@ufl.edu" target="_blank">
