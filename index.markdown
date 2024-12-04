@@ -9,7 +9,7 @@ layout: home_2
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/Portrait_Kaifa.jpg" alt="Kaifa" style="width: 180px; margin-right: 15px; border-radius: 8px;">
+  <img src="assets/Portrait_Kaifa.jpg" alt="Kaifa" style="width: 170px; margin-right: 12px; border-radius: 8px;">
   <div>
     <span style="font-weight: bold;font-size: 1.5em;">Kaifa Lu</span>
     <p>Ph.D. Candidate (2025) in Urban Planning, University of Florida, USA</p>
