@@ -31,6 +31,9 @@ layout: home_2
     <a href="https://www.linkedin.com/in/kaifa-lu-828676225/" style="text-decoration: none; color: inherit;">
     <img src="assets/linkedin-brands-solid.svg" alt="LinkedIn" class="icon" title="Visit linkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
+    <a href="assets/Kaifa-Lu-CV-24_1203.pdf" style="text-decoration: none; color: inherit;">
+    <img src="assets/square-cv-svgrepo-com.svg" alt="Resume" class="resume-link" title="Download CV" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    </a>
   </div>
 </div>
 <br>
