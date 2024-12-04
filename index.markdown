@@ -32,7 +32,7 @@ B.Eng. (2016) in Traffic Engineering, Harbin Institute of Technology, China
 
 <div style="display: flex; align-items: center;">
 <a href="mailto:kaifa.lu@ufl.edu" target="_blank">
-<img src="assets\envelope-solid.svg" alt="Email" class="icon" title="Email me" style="margin-right:3px">
+<img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="margin-right:3px">
 </a>
 
 <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" target="_blank">
