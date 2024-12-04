@@ -15,6 +15,11 @@ layout: home_2
   </figure>
   <div>
     <span style="font-weight: bold;font-size: 1.5em;">Kaifa Lu</span>
+    <style>
+      p {
+        line-height: 1.25;
+      }
+    </style>
     <p>Ph.D. Candidate (2025) in Urban Planning, University of Florida, USA</p>
     <p>M.S. (2024) in Electrical and Computer Engineering, University of Florida, USA</p>
     <p>M.S. (2021) in Transportation Engineering, Shanghai Jiao Tong University, China</p>
