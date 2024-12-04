@@ -42,7 +42,7 @@ layout: home_2
 
 -----------
 <h2>{{"Introduction"}}</h2>
-My name is Kaifa Lu. I am a PhD student concentrationing on Urban and Regional Planning at University of Florida. My research interests encompass autonomous vehicle based microtransit, micromobility, electric vehicle, urban resilience, adaptation planning for climate change, transportation network modeling and optimization, environmental analysis of transportation infrastructure (e.g. urban elevated expressways), analysis and evaluation of transportation policy, machine learning and deep learning.
+I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is *"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"*. My research interest includes autonomous vehicle AV-based microtransit, micromobility, urban planning AI, urban resilience, environmental planning (adaptation planning for climate change), machine learning, deep learning, and reinforcement learning, transportation network modeling and optimization, environmental analysis of transportation infrastructure (e.g. urban elevated expressways), and analysis and evaluation of transportation policy.
 
 -----------
 <h2>{{"Newsletter Posts"}}</h2>
