@@ -55,6 +55,8 @@ layout: home_2
       }
       li {
         padding-left: 20px;
+        line-height: 1.5;
+        text-indent: -20px;
       }
     </style>
 <p1>I am a PhD candidate in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">iAdapt</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
@@ -70,14 +72,15 @@ layout: home_2
 <li>Environmental analysis of transportation infrastructure</li>
 <br>
 
-
 -----------
 <br>
 <h2>{{"Selected Publications"}}</h2>
-<li><em>Urban Planning AI</em>: Peng, Z., <em>Lu, K.</em>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. Journal of Planning Education and Research, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
-<li><em>Transportation Planning</em>: <em>Lu, K.</em>, Peng, Z. (2023). Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon. Science of the Total Environment, 858, 159902 <a href="https://doi.org/10.1016/j.scitotenv.2022.159902">[Text]</a>.</li>
-<li><em>Transportation Policy</em>: <em>Lu, K.</em>, Wang, H., Li, X., et al. (2022). Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality. Transport Policy, 115, 62-74 <a href="https://doi.org/10.1016/j.tranpol.2021.11.005">[Text]</a>.</li>
-<li><em>Environment Planning</em>: <em>Lu, K.</em>, He, H., Wang, H., et al. (2020). Characterizing Temporal and Vertical Distribution Patterns of Traffic-emitted Pollutants Near an Elevated Expressway in Urban Residential Areas. Building and Environment, 172, 106678 <a href="[https://doi.org/10.1177/0739456X231180568](https://doi.org/10.1016/j.buildenv.2020.106678)">[Text]</a>.</li>
+<li><b>Urban Planning AI</b>: Peng, Z., <b>Lu, K.</b>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. Journal of Planning Education and Research, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
+<li><b>Microtransit & Micromobility</b>: Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. Travel Behaviour and Society, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.</li>
+<li><b>Transportation Planning</b>: <b>Lu, K.</b>, Peng, Z. (2023). Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon. Science of the Total Environment, 858, 159902 <a href="https://doi.org/10.1016/j.scitotenv.2022.159902">[Text]</a>.</li>
+<li><b>Transportation Policy</b>: <b>Lu, K.</b>, Wang, H., Li, X., et al. (2022). Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality. Transport Policy, 115, 62-74 <a href="https://doi.org/10.1016/j.tranpol.2021.11.005">[Text]</a>.</li>
+<li><b>Environment Planning</b>: <b>Lu, K.</b>, He, H., Wang, H., et al. (2020). Characterizing Temporal and Vertical Distribution Patterns of Traffic-emitted Pollutants Near an Elevated Expressway in Urban Residential Areas. Building and Environment, 172, 106678 <a href="https://doi.org/10.1016/j.buildenv.2020.106678">[Text]</a>.</li>
+<li><b>Environment Planning</b>: J17.	Zhu, X., <b>Lu, K.</b>, Peng, Z, et al. (2022). Spatiotemporal Variations of Carbon Dioxide (CO2) at Urban Neighborhood Scale: Characterization of Distribution Patterns and Contributions of Emission Sources. Sustainable Cities and Society, 78, 103646 <a href="https://doi.org/10.1016/j.scs.2021.103646">[Text]</a>.</li>
 <br>
 
 -----------
