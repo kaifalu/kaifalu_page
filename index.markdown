@@ -14,7 +14,7 @@ layout: home_2
     <figcaption style="font-size: 0.9em; color: #666;line-height: 1.5;">My photo in 2021</figcaption>
   </figure>
   <div>
-    <span style="font-weight: bold;font-size: 1.25em;line-height: 1.5;">Kaifa Lu</span>
+    <span style="font-weight: bold;font-size: 1.25em;line-height: 2;">Kaifa Lu</span>
     <style>
       p {
         line-height: 0.85;
