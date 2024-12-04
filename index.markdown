@@ -57,7 +57,8 @@ layout: home_2
         padding-left: 20px;
       }
     </style>
-<p1>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is *"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"*. My research interest includes:</p1>
+<p1>I am a PhD candidate in Urban and Regional Planning at the College of Design, Construction and Planning, University of Florida, U.S. My dissertation title is **_"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"_**. My research interest includes:</p1>
+<br>
 <li>Microtransit & Micromobility</li>
 <li>Urban planning AI</li>
 <li>Urban resilience</li>
@@ -73,6 +74,7 @@ layout: home_2
 <br>
 <h2>{{"Selected Publications"}}</h2>
 <br>
+
 -----------
 <br>
 <h2>{{"News"}}</h2>
