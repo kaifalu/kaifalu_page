@@ -9,10 +9,10 @@ layout: home_2
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/Portrait_Kaifa.jpg" alt="Your Photo" style="width: 200px; margin-right: 20px; border-radius: 8px;">
+  <img src="assets/Portrait_Kaifa.jpg" alt="Kaifa" style="width: 180px; margin-right: 15px; border-radius: 8px;">
   <div>
     <span style="font-weight: bold;font-size: 1.5em;">Kaifa Lu</span>
-    <p>Ph.D. Candidate (2025) in Urban and Regional Planning, University of Florida, USA</p>
+    <p>Ph.D. Candidate (2025) in Urban Planning, University of Florida, USA</p>
     <p>M.S. (2024) in Electrical and Computer Engineering, University of Florida, USA</p>
     <p>M.S. (2021) in Transportation Engineering, Shanghai Jiao Tong University, China</p>
     <p>B.S. (2018) in Transportation Engineering, Central South University, China</p>
