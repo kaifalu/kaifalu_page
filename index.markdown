@@ -20,7 +20,7 @@ layout: home_2
     <img src="assets/envelope-solid.svg" alt="Email" class="icon" title="Email me" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ" style="text-decoration: none; color: inherit;">
-    <img src="assets/google-scholar.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/google-scholar-square.svg" alt="Google Scholar" class="icon" title="Visit Google Scholar" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
     <a href="https://www.researchgate.net/profile/Lu-Kaifa" style="text-decoration: none; color: inherit;">
     <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
