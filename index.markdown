@@ -33,6 +33,7 @@ layout: home_2
     </a>
   </div>
 </div>
+<br>
 
 -----------
 <h2>{{"Education Background"}}</h2>
