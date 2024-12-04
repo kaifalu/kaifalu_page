@@ -17,7 +17,7 @@ layout: home_2
     <span style="font-weight: bold;font-size: 1.5em;">Kaifa Lu</span>
     <style>
       p {
-        line-height: 1.25;
+        line-height: 1.05;
       }
     </style>
     <p>Ph.D. Candidate (2025) in Urban Planning, University of Florida, USA</p>
