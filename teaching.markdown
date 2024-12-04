@@ -1,5 +1,5 @@
 ---
-layout: page_new
+layout: page
 title: Teaching
 permalink: /teaching/
 date:   2023-03-03 10:05:10 -0500
