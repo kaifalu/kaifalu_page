@@ -57,7 +57,7 @@ layout: home_2
         padding-left: 20px;
       }
     </style>
-<p1>I am a PhD candidate in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">[iAdapt]</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
+<p1>I am a PhD candidate in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">iAdapt</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
 <br>
 <li>Microtransit & Micromobility</li>
 <li>Urban planning AI</li>
@@ -74,6 +74,15 @@ layout: home_2
 -----------
 <br>
 <h2>{{"Selected Publications"}}</h2>
+<li>Peng, Z., Lu, K., Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. Journal of Planning Education and Research, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>. </li>
+<li>Urban planning AI</li>
+<li>Urban resilience</li>
+<li>Environmental Planning</li>
+<li>Machine learning, deep learning, and reinforcement learning</li>
+<li>Adaptation planning for climate change</li>
+<li>Analysis and evaluation of transportation policy</li>
+<li>Transportation network modeling and optimization</li>
+<li>Environmental analysis of transportation infrastructure</li>
 <br>
 
 -----------
