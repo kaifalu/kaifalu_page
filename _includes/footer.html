@@ -1,19 +1,54 @@
-<footer>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <font color=gray>
-  <span id="busuanzi_container_site_uv">
-    <span id="busuanzi_value_site_uv"></span> <span>vistors</span>
+# <footer>
+# <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+#  <font color=gray>
+#  <span id="busuanzi_container_site_uv">
+#    <span id="busuanzi_value_site_uv"></span> <span>vistors</span>
+#  </span>
+#  &
+#  <span id="busuanzi_container_site_pv">
+#    <span id="busuanzi_value_site_pv"></span> <span>views since December 2024</span>
+#  </span>
+#</font>
+#
+#<br>
+#
+#<span>
+#  &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/jekyll/minima">Minima</a> theme.
+#</span>
+#
+#</footer>
+
+<footer style="text-align: center; padding: 20px; border-top: 1px solid #ccc; margin-top: 20px;">
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  
+  <font color="gray">
+    <span id="busuanzi_container_site_uv">
+      <span id="busuanzi_value_site_uv"></span> visitors
+    </span>
+    &nbsp;&amp;&nbsp;
+    <span id="busuanzi_container_site_pv">
+      <span id="busuanzi_value_site_pv"></span> views since December 2024
+    </span>
+  </font>
+
+  <br><br>
+
+  <span>
+    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> 
+    {{ site.author.name }}. Made with Jekyll using the 
+    <a href="https://github.com/jekyll/minima" target="_blank" rel="noopener">Minima</a> theme.
   </span>
-  &
-  <span id="busuanzi_container_site_pv">
-    <span id="busuanzi_value_site_pv"></span> <span>views since December 2024</span>
-  </span>
-</font>
 
-<br>
+  <br><br>
 
-<span>
-  &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/jekyll/minima">Minima</a> theme.
-</span>
-
+  <button onclick="scrollToTop()" style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+    Back to Top
+  </button>
 </footer>
+
+<script>
+  // Function to scroll to the top
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+</script>
