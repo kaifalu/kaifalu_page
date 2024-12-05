@@ -30,9 +30,9 @@ author: Kaifa Lu
     <td><img src="assets/Track01_Dissertation.png"></td>
   </tr>
   <tr>
-    <td><li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li></td>
-    <td><li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li></td>
-    <td><li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li></td>
+    <td><li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li>
+    <li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li>
+    <li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li></td>
   </tr>
  </table>
 <br>
