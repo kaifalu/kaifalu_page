@@ -6,7 +6,8 @@ date:   2023-03-03 10:05:10 -0500
 ---
 
 --------------
-<h2>{{"Journal Paper Publications"}}</h2>
+<br>
+<h2>{{"Peer-Reviewed Journal Papers"}}</h2>
 <style>
       p1 {
         line-height: 2;
@@ -17,6 +18,7 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
+<br>
 <h3>{{"Urban Planning AI"}}</h3>
 <li>Peng, Z., <b>Lu, K.</b>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. <em>Journal of Planning Education and Research</em>, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
 <li>Liu, Y., Peng, Z., Hou, Q., & <b>Lu, K.</b> (2024). The Role, Opportunities, and Challenges of Generative AI in Comprehensive Planning of American Small Towns – Using ChatGPT as an Example (in Chinese). <em>Journal of Urban Regional Planning</em>, 16(1), 215-228.</li>
@@ -52,6 +54,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 -----------
+<br>
 <h2>{{"Manuscripts Under Review"}}</h2>
 <h3>{{"Deep Reinforcement Learning"}}</h3>
 <li><b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)</li>
@@ -76,6 +79,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 -----------
+<br>
 <h2>{{"Presentations & Talks"}}</h2>
 <h3>{{"Conference Presentations"}}</h3>
 <li><b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Washington D.C., USA.</li>
@@ -89,8 +93,7 @@ date:   2023-03-03 10:05:10 -0500
 <li><b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterizing Carbon Emissions from China V and China VI Gasoline Vehicles Based on Portable Emission Measurement Systems</em>. Washington D.C., USA.</li>
 <li><b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterizing the Traffic-related Carbon Emission Factors on Elevated Roads Based on On-road Measurements</em>. Washington D.C., USA.</li>
 <li><b>2021.01: Transportation Research Board 100th Annual Meeting</b>. <em>Investigating Pedestrians’ Exposure to Traffic-Related PM and BC at Intersections: A Case Study in Shanghai, China</em>. Washington D.C., USA.</li>
-<li><b>2020.01: Transportation Research Board 99th Annual Meeting</b>. <em>Characterization of Traffic-related Pollutant Distribution Patterns in Urban Residential Areas with an Elevated Expressway</em>. Washington D.C., USA.
-</li>
+<li><b>2020.01: Transportation Research Board 99th Annual Meeting</b>. <em>Characterization of Traffic-related Pollutant Distribution Patterns in Urban Residential Areas with an Elevated Expressway</em>. Washington D.C., USA.</li>
 <br>
 
 <h3>{{"Invited Talks"}}</h3>
