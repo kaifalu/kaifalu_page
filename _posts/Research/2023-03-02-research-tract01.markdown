@@ -27,7 +27,7 @@ author: Kaifa Lu
     <td>Dissertation: AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation</td>
   </tr>
   <tr>
-    <td><img src="assets/Track01_Dissertation.png"></td>
+    <td><img src="assets/Track 01_Dissertation.png"></td>
   </tr>
   <tr>
     <td><li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li>
