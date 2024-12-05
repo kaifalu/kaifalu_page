@@ -7,7 +7,7 @@ permalink: 'traffic-restriction-policy'
 author: Kaifa Lu
 ---
 
-The second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
+As shown in [Fall 2022 Doctoral Newsletter]("assets/Fall 2022 Newsletter.pdf"), the second-year Ph.D. student Kaifa Lu, under the guidance of his advisor Dr. Zhong-Ren Peng, has published a paper [Assessing the effects of non-local traffic restriction policy on urban air quality](https://doi.org/10.1016/j.tranpol.2021.11.005) at Transport Policy.
 
 Traffic restriction policy is common practice across the globe to alleviate urban road congestion and air pollution, particularly in China. However, effects of TRP for non-local vehicles and elevated expressways on local and regional air quality are understudied. This study helps fill this knowledge gap.
 
