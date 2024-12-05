@@ -1,14 +1,14 @@
 ---
 layout: post_new
-title:  "Track 05: Environmental and Adaptation Planning"
+title:  "Track 05: Environmental & Adaptation Planning"
 date:   2024-11-30 10:06:10 -0500
 categories: jekyll update
-permalink: 'track05-environmental-and-adaptation-planning'
+permalink: 'track05-environmental-&-adaptation-planning'
 author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Environmental and Adaptation Planning](https://en.wikipedia.org/wiki/Machine_learning) and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) is a field of inquiry devoted to understanding and building methods that "learn" – that is, methods that leverage data to improve performance on some set of tasks. Machine learning and deep learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. In this track, we aim to present primary modeling paradigms of machine learning and deep learning in urban applications as follows:
+[Environmental & Adaptation Planning](https://en.wikipedia.org/wiki/Machine_learning) and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) is a field of inquiry devoted to understanding and building methods that "learn" – that is, methods that leverage data to improve performance on some set of tasks. Machine learning and deep learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. In this track, we aim to present primary modeling paradigms of machine learning and deep learning in urban applications as follows:
 <li>{{ "Machine Learning in Urban Analytics" }}</li>
 <li>{{ "Machine Learning for Time Series" }}</li>
 <li>{{ "Neural Network and Deep Learning" }}</li>
