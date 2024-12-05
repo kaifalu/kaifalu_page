@@ -1,7 +1,7 @@
 ---
 layout: post_new
 title:  "Track 03: Urban Resilience"
-date:   2024-11-30 10:09:10 -0500
+date:   2024-11-30 10:08:10 -0500
 categories: jekyll update
 permalink: 'track03-urban-resilience'
 author: Kaifa Lu
