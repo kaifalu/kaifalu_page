@@ -6,6 +6,7 @@ date:   2023-03-03 10:05:10 -0500
 ---
 
 --------------
+<br>
 <h2>{{"Teaching at University of Florida"}}</h2>
 <style>
       p1 {
@@ -23,6 +24,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 -----------
+<br>
 <h2>{{"Teaching at Shanghai Jiao Tong University"}}</h2>
 <li><b>Teaching Assistant</b>, Operations Research (Undergraduate level), Spring 2018</li>
 <br>
