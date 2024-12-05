@@ -90,4 +90,5 @@ layout: home_2
 <li>2023.11.15: <b>Kaifa Lu</b> receive a Certificate of Outstanding Merit from the University of Florida International Center (UFIC)</li>
 <li>2023.11.09: <b>Kaifa Lu</b>'s research titled <em>"Impact of shared micromobility system sizes on usage patterns and its planning implications: A comparison between Washington DC and Jacksonville, Florida"</em> has been awarded "Merit Commendation (PhD Research Poster)" in Graduate Student Research Symposium by College of Design, Construction and Planning, University of Florida</li>
 <li>2021.08.23: <b>Kaifa Lu</b> started his Ph.D. study at the Department of Urban and Regional Planning, University of Florida</li>
-Find more in [Archived News](https://kaifalu917.github.io/kaifalu_page/news/)
+<br>
+Find more in <a href="https://kaifalu917.github.io/kaifalu_page/news/">[Archived News]</a>
