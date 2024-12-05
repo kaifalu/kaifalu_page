@@ -8,31 +8,32 @@ author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Urban Planning AI](https://carto.com/blog/urban-analytics-introduction-spatial-analytics#:~:text=Urban%20analytics%20is%20the%20practice%20of%20using%20new,the%20local%20and%20global%20environment%2C%20and%20much%20more) is the practice of using new forms of data in combination with computational approaches to gain insight into urban processes and increasing data availability allows us to ask new and often complex questions about cities, their economy, how they relate to the local and global environment, and much more. In this track, we aim to present some primary modeling paradigms to analyze cities with an emphasis on analytical perspectives and urban applications, so as to provid future urban planners, designers, and engineers the critical analytical capacity to understand cities and address upcoming urban challenges:
-<li>{{ "" }}</li>
-<li>{{ "Urban Network Analysis" }}</li>
-<li>{{ "Machine Learning in Cities" }}</li>
-<li>{{ "Urban Mobility and Behaviroal Analysis" }}</li>
+<style>
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+[Urban Planning AI](https://journals.sagepub.com/doi/10.1177/0739456X231180568) is the process of plan-making that is conducted, either partially or entirely, by an AI agent during the urban planning process. An AI agent refers to a software program or system specifically designed to perform tasks or make decisions based on a predetermined set of rules or algorithms. In the context of urban planning, an AI agent can encompass various computer programs or systems created to assist or automate different tasks involved in the planning process, similar to ChatGPT ([Peng et al., 2023](https://journals.sagepub.com/doi/10.1177/0739456X231180568)). For instance, an AI agent can analyze extensive datasets related to land use, population trends, transportation systems, or environmental factors, generating valuable insights and recommendations for planners. In addition, an AI agent can simulate different scenarios or models of urban development, aiding planners in visualizing the potential impacts of various policies or decisions. In essence, an AI agent plays a critical role within urban planning AI, enabling planners to harness the capabilities of machine learning and data analysis to make more informed and effective decisions ([Peng et al, 2023](https://journals.sagepub.com/doi/10.1177/0739456X231180568)). With different levels of AI involvement in the planning process, urban planning AI spans from initial AI-assisted plan-making to fully automated plan-making:
+<li>{{ "Plan-making Optimization & Automation" }}</li>
+<li>{{ "Spatial Data Analysis" }}</li>
+<li>{{ "Machine Learning & Deep Learning" }}</li>
+<li>{{ "Deep Reinforcement Learning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 <table>
   <tr>
-    <td>A Method to Generate Disaggregated Zonal and Link-level Travel Data based on Multi-source Probe Data</td>
+    <td>Dissertation: AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation</td>
+    <li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li>
+    <li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li>
+    <li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li>
   </tr>
   <tr>
-    <td><img src="assets/Track03_Project01.jpg"></td>
+    <td><img src="assets/Track01_Dissertation.png"></td>
   </tr>
  </table>
-<table>
-  <tr>
-    <td>The Economics of Light-duty Electric Vehicle Demand</td>
-    <td>The Impact of Electrification of Vehicles on Transportation Infrastructure</td>
-  </tr>
-  <tr>
-    <td><img src="assets/Track03_Project02.jpg"></td>
-    <td><img src="assets/Track03_Project03.jpg"></td>
-  </tr>
- </table>
+<br>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
 1. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)
