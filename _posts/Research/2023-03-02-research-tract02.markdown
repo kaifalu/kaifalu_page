@@ -1,39 +1,52 @@
 ---
 layout: post_new
-title:  "Track 02: Urban Resilience"
-date:   2024-11-30 10:09:10 -0500
+title:  "Track 02: Microtransit and Micromobility"
+date:   2024-11-30 10:10:10 -0500
 categories: jekyll update
-permalink: 'track02-urban-resilience'
+permalink: 'track02-microtransit-and-micromobility'
 author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Urban Resilience](https://en.wikipedia.org/wiki/Urban_resilience) is an emerging discipline to study the ability of an urban system-and all its constituent socio-ecological and socio-technical networks across temporal and spatial scales-to maintain or rapidly return to desired functions in the face of a disturbance, to adapt to change, and to quickly transform systems that limit current or future adaptive capacity ([Meerow et al. 2016](https://doi.org/10.1016/j.landurbplan.2015.11.011)). In this track, we focus on resilience of urban transportation network to investigate the impact of extreme weather events on urban mobility system as follows:
-<li>{{ "Vulnerability Assessment Approach" }}</li>
-<li>{{ "Transportation Network Resilience" }}</li>
-<li>{{ "Characterization of Mobility Resilience" }}</li>
-<li>{{ "Prediction of Mobility Resilience" }}</li>
+[Microtransit](https://en.wikipedia.org/wiki/Microtransit) and [Micromobility](https://en.wikipedia.org/wiki/Micromobility) are two emerging modes of transportation to provide nearby commuters and residents with an alternative micro-mobility option, particularly over first mile and last mile. One of the design goals of developing microtransit and micromobility is to extend the geographical and demographic reach that the existing public transit network cannot cover. In this track, we aim to disentangle the impact of microtransit and micromobility on mobility landscape as follows:
+<li>{{ "Microtransit & Micromobility Usage Pattern" }}</li>
+<li>{{ "Microtransit & Micromobility Demand Modelling" }}</li>
+<li>{{ "Microtransit & Micromobility Facility Planning" }}</li>
+<li>{{ "Relationship with Public Transit System" }}</li>
+<li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 <table>
   <tr>
-    <td>Modeling Florida’s Highway Network Resilience Against Sea Level Rise and Hurricanes</td>
+    <td><a href="{{ "https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/" }}">Microtransit and Micromobility Inventory in the State of Florida</a></td>
+    <td><a href="{{ "https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/" }}">Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona</a></td>
   </tr>
   <tr>
-    <td><img src="assets/Track02_Project01.jpg"></td>
+    <td><img src="assets/Track01_Project01.jpg"></td>
+    <td><img src="assets/Track01_Project02.jpg"></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><a href="{{ "https://dcp.ufl.edu/iadapt/assessment-of-modeling-framework-for-micromobility/" }}">Assessment of Modeling Framework for Micromobility</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track01_Project03.jpg"></td>
   </tr>
  </table>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
-1. Yang, X., Li, X., <b>Lu, K.</b>, & Peng, Z. (2023). Integrating Rural Livelihood Resilience and Sustainability for Post-disaster Community Relocation: A Theoretical Framework and Empirical Study. <em>Natural Hazards</em>, 116(2), 1775-1803 <a href="https://doi.org/10.1007/s11069-022-05739-4">[Text]</a>.
-2. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
-3. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
-<br>
-<h4>{{"Book Chapters"}}</h4>
-1. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
+1. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
+2. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)
+3. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership. <em>Computer, Environment and Urban Systems</em>. (Under Review)
+4. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+5. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)
+6. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)
 <br>
 <h4>{{"Presentations & Talks"}}</h4>
-1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Washington D.C., USA.
-2. <b>2023.10: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Chicago, IL, USA.
-3. <b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach</em>. Washington D.C., USA.
-<br>
+1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-based Machine Learning Model for Predicting Bike-sharing Ridership</em>. Washington D.C., USA.
+2. <b>2024.11: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications</em>. Seattle, WA, USA.
+3. <b>2024.07: The 18th International Association for China Planning (IACP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns and its Planning Implications</em>. Hangzhou, China.
+4. <b>2024.06: Guest Lecture at Chang’an University</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership</em>. Xi’an, China.
+5. <b>2024.01: Transportation Research Board 103rd Annual Meeting</b>. <em>Demystifying the Spatiotemporal Heterogeneity of Rental-Return Imbalance on Bike-Sharing Systems: A Bayesian Additive Regression Trees (BART) Model</em>. Washington D.C., USA.
+6. <b>2023.07: The 17th International Association for China Planning (IACP) Conference</b>. <em>Using Origin-Destination Flow Graph and Public Transit Information to Enhance Short-Term Ridership Prediction in Bike-Sharing Systems</em>. Tianjin, China.
