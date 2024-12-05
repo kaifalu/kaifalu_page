@@ -97,5 +97,5 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 <h4>{{"Invited Talks"}}</h4>
-<li><b>2024.06: Guest Lecture at Chang’an University</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership</em>. Xi’an, China</li>
+<li><b>2024.06: Guest Lecture at Chang’an University</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership</em>. Xi’an, China.</li>
 <br>
