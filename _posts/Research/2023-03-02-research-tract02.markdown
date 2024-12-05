@@ -29,11 +29,11 @@ author: Kaifa Lu
 2. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
 3. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
 <br>
+<h4>{{"Book Chapters"}}</h4>
+1. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
+<br>
 <h4>{{"Presentations & Talks"}}</h4>
 1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Washington D.C., USA.
 2. <b>2023.10: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Chicago, IL, USA.
 3. <b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach</em>. Washington D.C., USA.
-<br>
-<h4>{{"Book Chapters"}}</h4>
-1. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
 <br>
