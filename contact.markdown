@@ -5,7 +5,13 @@ permalink: /contact/
 date:   2023-03-03 10:01:10 -0500
 ---
 
-This is Kaifa Lu. You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/)
+![contact-me](/assets/contact-me.jpg){:class="img-responsive"}
+
+![contact-me](assets/contact me.png){:class="img-responsive"}
+
+This is Kaifa Lu. Email: kaifa.lu@ufl.edu or kflu.917@gmail.com
+
+You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/)
 
 You can download my latest [CV](assets/Kaifa-Lu-CV-24_1203.pdf)
 
