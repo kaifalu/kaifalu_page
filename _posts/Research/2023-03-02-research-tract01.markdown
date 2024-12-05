@@ -15,7 +15,7 @@ author: Kaifa Lu
         text-indent: -20px;
       }
     </style>
-[Urban Planning AI](https://journals.sagepub.com/doi/10.1177/0739456X231180568) is the process of plan-making that is conducted, either partially or entirely, by an AI agent during the urban planning process. An AI agent refers to a software program or system specifically designed to perform tasks or make decisions based on a predetermined set of rules or algorithms. In the context of urban planning, an AI agent can encompass various computer programs or systems created to assist or automate different tasks involved in the planning process, similar to ChatGPT ([Peng et al., 2023](https://journals.sagepub.com/doi/10.1177/0739456X231180568)). For instance, an AI agent can analyze extensive datasets related to land use, population trends, transportation systems, or environmental factors, generating valuable insights and recommendations for planners. In addition, an AI agent can simulate different scenarios or models of urban development, aiding planners in visualizing the potential impacts of various policies or decisions. In essence, an AI agent plays a critical role within urban planning AI, enabling planners to harness the capabilities of machine learning and data analysis to make more informed and effective decisions ([Peng et al, 2023](https://journals.sagepub.com/doi/10.1177/0739456X231180568)). With different levels of AI involvement in the planning process, urban planning AI spans from initial AI-assisted plan-making to fully automated plan-making:
+[Urban Planning AI](https://journals.sagepub.com/doi/10.1177/0739456X231180568) is the process of plan-making that is conducted, either partially or entirely, by an AI agent during the urban planning process. Specifically, an Urban Planning AI agent can encompass various computer programs or systems created to assist or automate different tasks involved in the planning process, similar to ChatGPT, enabling planners to make more informed and effective decisions ([Peng et al, 2023](https://journals.sagepub.com/doi/10.1177/0739456X231180568)). With different levels of AI involvement in the planning process, urban planning AI spans from initial AI-assisted plan-making to fully automated plan-making:
 <li>{{ "Plan-making Optimization & Automation" }}</li>
 <li>{{ "Spatial Data Analysis" }}</li>
 <li>{{ "Machine Learning & Deep Learning" }}</li>
@@ -25,12 +25,14 @@ author: Kaifa Lu
 <table>
   <tr>
     <td>Dissertation: AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation</td>
-    <li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li>
-    <li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li>
-    <li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li>
   </tr>
   <tr>
     <td><img src="assets/Track01_Dissertation.png"></td>
+  </tr>
+  <tr>
+    <td><li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li></td>
+    <td><li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li></td>
+    <td><li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li></td>
   </tr>
  </table>
 <br>
