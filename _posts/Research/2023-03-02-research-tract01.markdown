@@ -1,7 +1,7 @@
 ---
 layout: post_new
 title:  "Track 01: Urban Planning AI"
-date:   2024-11-30 10:08:10 -0500
+date:   2024-11-30 10:10:10 -0500
 categories: jekyll update
 permalink: 'track01-urban-planning-ai'
 author: Kaifa Lu
