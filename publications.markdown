@@ -53,41 +53,46 @@ date:   2023-03-03 10:05:10 -0500
 
 -----------
 <h2>{{"Manuscripts Under Review"}}</h2>
-<h3>{{"Journal Paper Publications"}}</h3>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<h3>{{"Deep Reinforcement Learning"}}</h3>
+<li><b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)</li>
 <br>
 
-<h3>{{"Journal Paper Publications"}}</h3>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<h3>{{"Transportation Policy & Planning"}}</h3>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership. <em>Computer, Environment and Urban Systems</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)</li>
 <br>
 
-<h3>{{"Journal Paper Publications"}}</h3>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<h3>{{"Urban Resilience & Deep Learning"}}</h3>
+<li><b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
 <br>
 
 -----------
 <h2>{{"Book Chapters"}}</h2>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<li>Peng, Z., <b>Lu, K.</b>, Jin, M., et al. (2022). <em>China’s Metro Explosion: Lessons from China’s Big Four Cities</em>. In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA <a href="http://dx.doi.org/10.4337/9781803920634">[Text]</a>.</li>
+<li>Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.</li>
 <br>
 
 -----------
 <h2>{{"Presentations & Talks"}}</h2>
-<h3>{{"Journal Paper Publications"}}</h3>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<h3>{{"Conference Presentations"}}</h3>
+<li><b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Washington D.C., USA.</li>
+<li><b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-based Machine Learning Model for Predicting Bike-sharing Ridership</em>. Washington D.C., USA.</li>
+<li><b>2024.11: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications</em>. Seattle, WA, USA.</li>
+<li><b>2024.07: The 18th International Association for China Planning (IACP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns and its Planning Implications</em>. Hangzhou, China.</li>
+<li><b>2024.01: Transportation Research Board 103rd Annual Meeting</b>. <em>Demystifying the Spatiotemporal Heterogeneity of Rental-Return Imbalance on Bike-Sharing Systems: A Bayesian Additive Regression Trees (BART) Model</em>. Washington D.C., USA.</li>
+<li><b>2023.10: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Chicago, IL, USA.</li>
+<li><b>2023.07: The 17th International Association for China Planning (IACP) Conference</b>. <em>Using Origin-Destination Flow Graph and Public Transit Information to Enhance Short-Term Ridership Prediction in Bike-Sharing Systems</em>. Tianjin, China.</li>
+<li><b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach</em>. Washington D.C., USA.</li>
+<li><b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterizing Carbon Emissions from China V and China VI Gasoline Vehicles Based on Portable Emission Measurement Systems</em>. Washington D.C., USA.</li>
+<li><b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterizing the Traffic-related Carbon Emission Factors on Elevated Roads Based on On-road Measurements</em>. Washington D.C., USA.</li>
+<li><b>2021.01: Transportation Research Board 100th Annual Meeting</b>. <em>Investigating Pedestrians’ Exposure to Traffic-Related PM and BC at Intersections: A Case Study in Shanghai, China</em>. Washington D.C., USA.</li>
+<li><b>2020.01: Transportation Research Board 99th Annual Meeting</b>. <em>Characterization of Traffic-related Pollutant Distribution Patterns in Urban Residential Areas with an Elevated Expressway</em>. Washington D.C., USA.
+</li>
 <br>
 
-<h3>{{"Journal Paper Publications"}}</h3>
-<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
-<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
-<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<h3>{{"Invited Talks"}}</h3>
+<li><b>2024.06: Guest Lecture at Chang’an University</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership</em>. Xi’an, China</li>
 <br>
