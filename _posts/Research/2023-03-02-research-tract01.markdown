@@ -34,7 +34,7 @@ author: Kaifa Lu
     <td><img src="assets/Track01_Project03.jpg"></td>
   </tr>
  </table>
-<h2>{{"Publication"}}</h2>
+<h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
 1. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
 2. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)
