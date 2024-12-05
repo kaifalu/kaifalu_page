@@ -45,12 +45,12 @@ author: Kaifa Lu
 8. Jia, Y., <b>Lu, K.</b>, Zheng, T., et al. (2021). Effects of Roadside Green Infrastructure on Particle Exposure: A Focus on Cyclists and Pedestrians on Pathways Between Urban Roads and Vegetative Barriers. <em>Atmospheric Pollution Research</em>, 12, 1-12 <a href="https://doi.org/10.1016/j.apr.2021.01.017">[Text]</a>.
 9. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)
 <br>
+<h4>{{"Book Chapters"}}</h4>
+1. Peng, Z., <b>Lu, K.</b>, Jin, M., et al. (2022). <em>China’s Metro Explosion: Lessons from China’s Big Four Cities</em>. In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA <a href="http://dx.doi.org/10.4337/9781803920634">[Text]</a>.
+2. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
 <h4>{{"Presentations & Talks"}}</h4>
 1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-based Machine Learning Model for Predicting Bike-sharing Ridership</em>. Washington D.C., USA.
 2. <b>2024.11: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications</em>. Seattle, WA, USA.
 3. <b>2024.07: The 18th International Association for China Planning (IACP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns and its Planning Implications</em>. Hangzhou, China.
 4. <b>2024.01: Transportation Research Board 103rd Annual Meeting</b>. <em>Demystifying the Spatiotemporal Heterogeneity of Rental-Return Imbalance on Bike-Sharing Systems: A Bayesian Additive Regression Trees (BART) Model</em>. Washington D.C., USA.
 <br>
-<h4>{{"Book Chapter"}}</h4>
-1. Peng, Z., <b>Lu, K.</b>, Jin, M., et al. (2022). <em>China’s Metro Explosion: Lessons from China’s Big Four Cities</em>. In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA <a href="http://dx.doi.org/10.4337/9781803920634">[Text]</a>.
-2. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
