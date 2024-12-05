@@ -5,13 +5,79 @@ permalink: /publications/
 date:   2023-03-03 10:05:10 -0500
 ---
 
+--------------
+<h2>{{"Journal Paper Publications"}}</h2>
+<style>
+      p1 {
+        line-height: 2;
+      }
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
 
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
 <br>
+
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
 <br>
+
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
 <br>
-You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/) <br>
-You can find my research/publications at:
-[GoogleScholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7SjQ_GCjudiMAsdMSj3Nm3lay84-_MzCzV8p5srIvzk8VH5trZUg90W9v0pT-_QJPnlm7djpP2YW69s9hCmBGEZokg3w&user=a8eAKS8AAAAJ) /
-[ResearchGate](https://www.researchgate.net/profile/Lu-Kaifa) <br>
-You can find my source codes for maching learning at GitHub:
-[Github](https://github.com/kaifalu917)
+
+-----------
+<h2>{{"Manuscripts Under Review"}}</h2>
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
+
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
+
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
+
+-----------
+<h2>{{"Book Chapters"}}</h2>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
+
+-----------
+<h2>{{"Presentations & Talks"}}</h2>
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
+
+<h3>{{"Journal Paper Publications"}}</h3>
+<li><b>Teaching Assistant</b>, Transportation Policy and Planning (Graduate level), Fall 2024</li>
+<li><b>Teaching Assistant</b>, Transportation and Land Use Modeling (Graduate level), Spring 2024</li>
+<li><b>Co-Instructor</b>, Transportation and Land Use Modeling (Graduate level), Spring 2022</li>
+<br>
