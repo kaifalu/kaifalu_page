@@ -1,5 +1,5 @@
 ---
-layout: post_index
+layout: post #### post_index
 title:  "Fall 2022 URP Doctoral Newsletter: Kaifa Lu"
 date:   2023-03-02 10:03:10 -0500
 categories: jekyll update
