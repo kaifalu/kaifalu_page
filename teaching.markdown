@@ -5,8 +5,6 @@ permalink: /teaching/
 date:   2023-03-03 10:05:10 -0500
 ---
 
-
-<br>
 --------------
 <h2>{{"Teaching at University of Florida"}}</h2>
 <style>
