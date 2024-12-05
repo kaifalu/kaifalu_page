@@ -8,12 +8,19 @@ author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Microtransit](https://en.wikipedia.org/wiki/Microtransit) and [Micromobility](https://en.wikipedia.org/wiki/Micromobility) are two emerging modes of transportation to provide nearby commuters and residents with an alternative micro-mobility option, particularly over first mile and last mile. One of the design goals of developing microtransit and micromobility is to extend the geographical and demographic reach that the existing public transit network cannot cover. In this track, we aim to disentangle the impact of microtransit and micromobility on mobility landscape as follows:
-<li>{{ "Microtransit & Micromobility Usage Pattern" }}</li>
-<li>{{ "Microtransit & Micromobility Demand Modelling" }}</li>
-<li>{{ "Microtransit & Micromobility Facility Planning" }}</li>
-<li>{{ "Relationship with Public Transit System" }}</li>
-<li>{{ "Evaluation of Microtransit & Micromobility Program" }}</li>
+<style>
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+[Microtransit](https://en.wikipedia.org/wiki/Microtransit) and [Micromobility](https://en.wikipedia.org/wiki/Micromobility) are two emerging modes of transportation to provide nearby commuters and residents with an alternative micro-mobility option, particularly over first mile and last mile. One of the design goals of microtransit and micromobility systems is to extend the geographical and demographic reach that the existing public transit network cannot cover. In this track, I aim to investigate the impact of microtransit and micromobility systems on transportation landscape and urban mobility:
+<li>{{ "Usage Pattern Analysis" }}</li>
+<li>{{ "Demand Modelling & Prediction" }}</li>
+<li>{{ "Relationship with Public Transit" }}</li>
+<li>{{ "Transportation Infrastructure Planning" }}</li>
+<li>{{ "Microtransit & Micromobility System Evaluation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 <table>
@@ -22,8 +29,12 @@ author: Kaifa Lu
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/" }}">Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona</a></td>
   </tr>
   <tr>
-    <td><img src="assets/Track01_Project01.jpg"></td>
-    <td><img src="assets/Track01_Project02.jpg"></td>
+    <td><img src="assets/Track 02_Project01.jpg"></td>
+    <td><img src="assets/Track 02_Project02.jpg"></td>
+  </tr>
+  <tr>
+    <td><li>Inventory all forms of microtransit and micromobility in Florida, map the geofenced service areas, and identify their relationship, if any, with transit agencies</li></td>
+    <td><li>Develop a framework for examining various aspects of the AV-based microtransit system, including policy and government support, infrastructure and technology, service and management, financial sustainability, ridership, and community impact.</li></td>
   </tr>
  </table>
 <table>
@@ -31,7 +42,10 @@ author: Kaifa Lu
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/assessment-of-modeling-framework-for-micromobility/" }}">Assessment of Modeling Framework for Micromobility</a></td>
   </tr>
   <tr>
-    <td><img src="assets/Track01_Project03.jpg"></td>
+    <td><img src="assets/Track 02_Framework.jpg"></td>
+  </tr>
+  <tr>
+    <td><li>Develop a modeling framework for micromobility analytics that integrates survey analysis, spatial data analysis, and machine learning to understand their usage patterns, crash patterns, and relationships with public transit in Florida.</li></td>
   </tr>
  </table>
 <h2>{{"Publications"}}</h2>
