@@ -1,7 +1,7 @@
 ---
 layout: post_new
 title:  "Track 05: Environmental & Adaptation Planning"
-date:   2023-03-02 10:07:10 -0500
+date:   2024-11-30 10:07:10 -0500
 categories: jekyll update
 permalink: 'track05-environmental-&-adaptation-planning'
 author: Kaifa Lu
