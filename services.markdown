@@ -5,8 +5,6 @@ permalink: /services/
 date:   2023-03-03 10:05:10 -0500
 ---
 
-
-<br>
 --------------
 <h2>{{"Reviewers"}}</h2>
 <style>
@@ -28,6 +26,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 --------------
+<br>
 <h2>{{"Affiliations"}}</h2>
 <li>International Association for China Planning (IACP), Student Member</li>
 <li>International Center for Adaptation Planning and Design (iAdapt), Member</li>
