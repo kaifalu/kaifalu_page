@@ -18,7 +18,6 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
-<br>
 <h4>{{"Urban Planning AI"}}</h4>
 <li>Peng, Z., <b>Lu, K.</b>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. <em>Journal of Planning Education and Research</em>, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
 <li>Liu, Y., Peng, Z., Hou, Q., & <b>Lu, K.</b> (2024). The Role, Opportunities, and Challenges of Generative AI in Comprehensive Planning of American Small Towns – Using ChatGPT as an Example (in Chinese). <em>Journal of Urban Regional Planning</em>, 16(1), 215-228.</li>
@@ -73,6 +72,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 -----------
+<br>
 <h3>{{"Book Chapters"}}</h3>
 <li>Peng, Z., <b>Lu, K.</b>, Jin, M., et al. (2022). <em>China’s Metro Explosion: Lessons from China’s Big Four Cities</em>. In: Landis, J. D. (eds) Megaprojects for Megacities. Edward Elgar Publishing, Inc., USA <a href="http://dx.doi.org/10.4337/9781803920634">[Text]</a>.</li>
 <li>Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.</li>
