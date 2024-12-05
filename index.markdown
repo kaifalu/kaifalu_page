@@ -62,14 +62,13 @@ layout: home_2
 <p1>I am a PhD candidate in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">iAdapt</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
 <br>
 <li>Microtransit & Micromobility</li>
-<li>Urban planning AI</li>
-<li>Urban resilience</li>
-<li>Environmental Planning</li>
+<li>Urban Planning AI</li>
+<li>Urban Resilience</li>
+<li>Transportation Policy & Planning</li>
+<li>Environmental & Adaptation Planning</li>
+<li>Transportation Network Modeling and Optimization</li>
+<li>Spatiotemporal Data Analytics & Decision Sciences</li>
 <li>Machine learning, deep learning, and reinforcement learning</li>
-<li>Adaptation planning for climate change</li>
-<li>Analysis and evaluation of transportation policy</li>
-<li>Transportation network modeling and optimization</li>
-<li>Environmental analysis of transportation infrastructure</li>
 <br>
 
 -----------
