@@ -42,7 +42,7 @@ author: Kaifa Lu
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/assessment-of-modeling-framework-for-micromobility/" }}">Assessment of Modeling Framework for Micromobility</a></td>
   </tr>
   <tr>
-    <td><img src="assets/Track 02_Framework.jpg"></td>
+    <td><img src="assets/Track 02_Framework.png"></td>
   </tr>
   <tr>
     <td><li>Develop a modeling framework for micromobility analytics that integrates survey analysis, spatial data analysis, and machine learning to understand their usage patterns, crash patterns, and relationships with public transit in Florida.</li></td>
