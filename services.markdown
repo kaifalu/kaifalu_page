@@ -24,7 +24,6 @@ date:   2023-03-03 10:05:10 -0500
 <li>Air Quality, Atmosphere & Health</li>
 <li>Stochastic Environmental Research and Risk Assessment</li>
 <br>
---------------
 <br>
 <h2>{{"Affiliations"}}</h2>
 <li>International Association for China Planning (IACP), Student Member</li>
