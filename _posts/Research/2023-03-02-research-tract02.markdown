@@ -1,7 +1,7 @@
 ---
 layout: post_new
 title:  "Track 02: Urban Resilience"
-date:   2023-03-02 10:09:10 -0500
+date:   2024-11-30 10:09:10 -0500
 categories: jekyll update
 permalink: 'track02-urban-resilience'
 author: Kaifa Lu
@@ -23,12 +23,17 @@ author: Kaifa Lu
     <td><img src="assets/Track02_Project01.jpg"></td>
   </tr>
  </table>
-<h2>{{"Publication"}}</h2>
-<h4>{{"Book Chapter"}}</h4>
-1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.
+<h2>{{"Publications"}}</h2>
+<h4>{{"Journal Papers"}}</h4>
+1. Yang, X., Li, X., <b>Lu, K.</b>, & Peng, Z. (2023). Integrating Rural Livelihood Resilience and Sustainability for Post-disaster Community Relocation: A Theoretical Framework and Empirical Study. <em>Natural Hazards</em>, 116(2), 1775-1803 <a href="https://doi.org/10.1007/s11069-022-05739-4">[Text]</a>.
+2. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
+3. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
 <br>
-<h4>{{"Journal Paper"}}</h4>
-1. Lu, K., Liu, Y., Peng, Z. (2023). Assessing the Association of Built Environment, Demographics, and Network Characteristics with Mobility Resilience in Transportation Network Against Extreme Weather Events. Journal of Transport Geography (Peer Review).
-2. Lu, K., Liu, Y., Che, L., Peng, Z. (2023). Characterization and Prediction of Mobility Resilience in Transportation Network: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Part C: Emerging Technologies (Peer Review).
-<h4>{{"Conference Paper"}}</h4>
-1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.
+<h4>{{"Presentations & Talks"}}</h4>
+1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Washington D.C., USA.
+2. <b>2023.10: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events</em>. Chicago, IL, USA.
+3. <b>2023.01: Transportation Research Board 102nd Annual Meeting</b>. <em>Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach</em>. Washington D.C., USA.
+<br>
+<h4>{{"Book Chapters"}}</h4>
+1. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
+<br>
