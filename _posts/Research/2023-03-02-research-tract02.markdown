@@ -1,9 +1,9 @@
 ---
 layout: post_new
-title:  "Track 02: Microtransit and Micromobility"
+title:  "Track 02: Microtransit & Micromobility"
 date:   2024-11-30 10:10:10 -0500
 categories: jekyll update
-permalink: 'track02-microtransit-and-micromobility'
+permalink: 'track02-microtransit-&-micromobility'
 author: Kaifa Lu
 ---
 
