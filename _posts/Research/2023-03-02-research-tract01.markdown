@@ -1,7 +1,7 @@
 ---
 layout: post_new
 title:  "Track 01: Microtransit and Micromobility"
-date:   2023-03-02 10:10:10 -0500
+date:   2024-11-30 10:10:10 -0500
 categories: jekyll update
 permalink: 'track01-microtransit-and-micromobility'
 author: Kaifa Lu
@@ -28,17 +28,25 @@ author: Kaifa Lu
  </table>
 <table>
   <tr>
-    <td>Assessment of Modeling Framework for Micromobility</td>
+    <td><a href="{{ "https://dcp.ufl.edu/iadapt/assessment-of-modeling-framework-for-micromobility/" }}">Assessment of Modeling Framework for Micromobility</a></td>
   </tr>
   <tr>
     <td><img src="assets/Track01_Project03.jpg"></td>
   </tr>
  </table>
 <h2>{{"Publication"}}</h2>
-<h4>{{"Book Chapter"}}</h4>
-1. Peng, Z., Zhai, W., Lu, K. (2022). [Smart, Sustainable, and Resilient Transportation System](https://doi.org/10.1007/978-981-19-3816-0_34). In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore.
+<h4>{{"Journal Papers"}}</h4>
+1. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
+2. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)
+3. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership. <em>Computer, Environment and Urban Systems</em>. (Under Review)
+4. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+5. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)
+6. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)
 <br>
-<h4>{{"Journal Paper"}}</h4>
-1. Lu, K., Wang, H., Li, X., et al. (2022). [Assessing the Effects of Non-local Traffic Restriction Policy on Urban Air Quality](https://doi.org/10.1016/j.tranpol.2021.11.005). Transport Policy, 115, 62-74.
-<h4>{{"Conference Paper"}}</h4>
-1. Lu, K., Che, L., Peng, Z. (2022). Characterization and Prediction of Transportation Network Resilience: A Spatiotemporal Graph Diffusion Convolutional Recurrent Neural Network Approach. Transportation Research Board 102nd Annual Meeting, Washington D.C.
+<h4>{{"Presentations & Talks"}}</h4>
+1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-based Machine Learning Model for Predicting Bike-sharing Ridership</em>. Washington D.C., USA.
+2. <b>2024.11: Association of Collegiate Schools of Planning (ACSP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications</em>. Seattle, WA, USA.
+3. <b>2024.07: The 18th International Association for China Planning (IACP) Conference</b>. <em>Impact of Shared Micromobility System Sizes on Usage Patterns and its Planning Implications</em>. Hangzhou, China.
+4. <b>2024.06: Guest Lecture at Chang’an University</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership</em>. Xi’an, China.
+5. <b>2024.01: Transportation Research Board 103rd Annual Meeting</b>. <em>Demystifying the Spatiotemporal Heterogeneity of Rental-Return Imbalance on Bike-Sharing Systems: A Bayesian Additive Regression Trees (BART) Model</em>. Washington D.C., USA.
+6. <b>2023.07: The 17th International Association for China Planning (IACP) Conference</b>. <em>Using Origin-Destination Flow Graph and Public Transit Information to Enhance Short-Term Ridership Prediction in Bike-Sharing Systems</em>. Tianjin, China.
