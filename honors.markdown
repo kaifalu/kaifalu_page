@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Certificates & Awards
-permalink: /certificates&awards/
+title: Honors
+permalink: /honors/
 date:   2023-03-03 10:05:10 -0500
 ---
 --------------
 <br>
-<h2>{{"Certificate"}}</h2>
+<h2>{{"Certificates"}}</h2>
 <style>
       p1 {
         line-height: 2;
