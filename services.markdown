@@ -7,7 +7,6 @@ date:   2023-03-03 10:05:10 -0500
 
 --------------
 <br>
-<br>
 <h2>{{"Reviewers"}}</h2>
 <style>
       p1 {
@@ -28,7 +27,6 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 --------------
-<br>
 <br>
 <h2>{{"Affiliations"}}</h2>
 <li>International Association for China Planning (IACP), Student Member</li>
