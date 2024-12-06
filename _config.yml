@@ -23,8 +23,8 @@ title: About me
 description: "Home" # >- # this means to ignore newlines until "baseurl:"
 #  Simplicity is Happiness!
 #  Persistence is Victory!
-baseurl: "https://github.com/kaifalu/kaifalu_page" # the subpath of your site, e.g. /blog  kaifalu_blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kaifalu_page" # the subpath of your site, e.g. /blog  kaifalu_blog
+url: "https://github.com/kaifalu/" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  kaifalu917
 # instagram_username: kaifalu917
 # linkedin_username: Kaifa Lu
