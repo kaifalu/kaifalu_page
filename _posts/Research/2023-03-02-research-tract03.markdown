@@ -23,28 +23,28 @@ author: Kaifa Lu
 <li>{{ "Prediction of Performance Resilience" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td>Characterizing Miami-Dade County's Highway Network Resilience Against Hurricanes</td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 03_Project01.png"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td>
       <li>Analyze changes in average traffic volume and median traffic speed due to disruptions to quantify volume and speed resilience</li>
       <li>Identify four resilience phases including negative volume, positive speed (80% of networks); both negative (17%); both positive (0.6%); positive volume, negative speed (2.4%) in Miami-Dade County</li>
     </td>
   </tr>
  </table>
- <table>
-  <tr>
+ <table style="margin-left: auto; margin-right: auto;">
+ <tr style="text-align: center;">
     <td>Predicting Miami-Dade County's Highway Network Resilience Against Hurricanes</td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 03_Project02.jpg"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
      <td>
        <li>Develop a Spatiotemporal Graph Convolutional Recurrent Neural Network (ST-GCRNN) model to forecast highway network resilience</li>
        <li>Compare different methods for constructing undirected and directed geospatial graphs, separarely based on geographic, land use, and population density similarities</li>
