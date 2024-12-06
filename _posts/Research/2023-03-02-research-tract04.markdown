@@ -21,7 +21,7 @@ author: Kaifa Lu
 <li>{{ "Infrastructure Design & Planning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td>Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai</td>
   </tr>
