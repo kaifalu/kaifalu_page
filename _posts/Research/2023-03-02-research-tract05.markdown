@@ -22,16 +22,16 @@ author: Kaifa Lu
 <li>{{ "Field Measurement & Numerical Simulation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td>Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment</td>
     <td>Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship</td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 05_Project01.jpg"></td>
     <td><img src="assets/Track 05_Project02.jpg"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td>
       <li>Investigate the potential of different transportation policies (i.e., traffic restriction policy) and infrastructure planning (i.e., viaduct, street canyon) in improving urban air quality, as well as their impacts on the spatiotemporal distribution patterns of traffic-related pollutants</li>
     </td>
@@ -40,27 +40,27 @@ author: Kaifa Lu
     </td>
   </tr>
  </table>
-<table>
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td>Evaluation and Prediction of Transprortation Network Resilience Against Extreme Weather Events</td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 05_Project03.png"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td>
       <li>Find more in <a href="{{ "https://kaifalu917.github.io/kaifalu_page/track03-urban-resilience" }}">Track 03: Urban Resilience</a></li>
     </td>
   </tr>
  </table>
- <table>
-  <tr>
+ <table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/a-parameterized-climate-change-projection-model-for-hurricane-flooding-wave-action-economic-damages-and-population-dynamics/" }}">A Parameterized Climate Change Projection Model for Hurricane Flooding, Wave Action, Economic Damages, and Population Dynamics</a></td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 05_Project04.png"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td>
       <li>Quantify the potential impact of sea level rise and resulting flooding on population displacement in coastal areas</li>
       <li>Find that the majority of coastal residents prefer residing near shorelines over towards hinterlands, even if rising sea level would permanently inundate their primary residences in 2080</li>
