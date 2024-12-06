@@ -23,7 +23,7 @@ author: Kaifa Lu
 <li>{{ "Prediction of Performance Resilience" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td>Characterizing Miami-Dade County's Highway Network Resilience Against Hurricanes</td>
   </tr>
