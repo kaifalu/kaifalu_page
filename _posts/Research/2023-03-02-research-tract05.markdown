@@ -15,7 +15,7 @@ author: Kaifa Lu
         text-indent: -20px;
       }
     </style>
-[Environmental & Adaptation Planning](https://en.wikipedia.org/wiki/Machine_learning) is the process of planning for reducing environmental impacts of urban infrastructure, mobility, and production, and for adjusting to the effects of climate change to enhance urban resilience. In this track, I aim to investigate environmental analysis of transportation infrastructure, environmental monitoring, and planning for climate change:
+[Environmental & Adaptation Planning](https://en.wikipedia.org/wiki/Environmental_planning) is the process of planning for reducing environmental impacts of urban infrastructure, mobility, and production, and for adjusting to the effects of climate change to enhance urban resilience. In this track, I aim to investigate environmental analysis of transportation infrastructure, environmental monitoring, and planning for climate change:
 <li>{{ "Transportation Infrastructure" }}</li>
 <li>{{ "Environmental Monitoring & Planning" }}</li>
 <li>{{ "Planning for Climate Change" }}</li>
