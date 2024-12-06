@@ -49,7 +49,7 @@ author: Kaifa Lu
   </tr>
   <tr style="text-align: left;">
     <td>
-      <li>Find more in <a href="{{ "https://kaifalu917.github.io/kaifalu_page/track03-urban-resilience" }}">Track 03: Urban Resilience</a></li>
+      <li>Find more in <a href="{{ "https://kaifalu.github.io/kaifalu_page/track03-urban-resilience" }}">Track 03: Urban Resilience</a></li>
     </td>
   </tr>
  </table>
