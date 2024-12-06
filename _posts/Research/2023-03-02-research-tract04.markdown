@@ -21,41 +21,41 @@ author: Kaifa Lu
 <li>{{ "Infrastructure Design & Planning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style=" text-align: center;">
     <td>Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai</td>
   </tr>
-  <tr>
+  <tr style=" text-align: center;">
     <td><img src="assets/Track 04_Project01.jpg"></td>
   </tr>
-  <tr>
+  <tr style=" text-align: left;">
     <td><li>Perform comparative research design and regression discontinuity analysis to investigate the effects of non-local traffic restriction policy on urban air quality</li></td>
   </tr>
  </table>
- <table>
-  <tr>
+ <table style="margin-left: auto; margin-right: auto;">
+  <tr style=" text-align: center;">
     <td>Florida’s Transportation Revenue Forecasting and Allocation Process and Modeling – Phase I</td>
   </tr>
-  <tr>
+  <tr style=" text-align: center;">
     <td><img src="assets/Track 04_Project02.jpg"></td>
   </tr>
-  <tr>
+  <tr style=" text-align: left;">
     <td>
       <li>Develop models to understand the forces that will affect future transportation revenues in Florida</li>
       <li>Delineate the whole process and concerns of allocating the revenue to Districts and MPOs</li> 
     </td>
   </tr>
  </table>
- <table>
-  <tr>
+ <table style="margin-left: auto; margin-right: auto;">
+  <tr style=" text-align: center;">
     <td>RFID-based Automatic Toll System for Roadside Parking</td>
     <td>Railway Station Design: China Railway Guangzhou & Wuhan Groups</td>
   </tr>
-  <tr>
+  <tr style=" text-align: center;">
     <td><img src="assets/Track 04_Project03.jpg"></td>
     <td><img src="assets/Track 04_Project04.jpg"></td>
   </tr>
-  <tr>
+  <tr style=" text-align: left;">
     <td>
       <li>Develop an RFID-based automatic toll system for roadside parking to monitor illegal parking behaviors and improve charging efficiency and accuracy</li>
     </td>
