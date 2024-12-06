@@ -33,7 +33,7 @@ layout: home_2
     <a href="https://www.researchgate.net/profile/Lu-Kaifa" style="text-decoration: none; color: inherit;">
     <img src="assets/researchgate-square.svg" alt="ResearchGate" class="icon" title="Visit ResearchGate" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
-    <a href="https://github.com/kaifalu917" style="text-decoration: none; color: inherit;">
+    <a href="https://github.com/kaifalu" style="text-decoration: none; color: inherit;">
     <img src="assets/github-brands-solid.svg" alt="Github" class="icon" title="Visit Github" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
     <a href="https://www.linkedin.com/in/kaifa-lu-828676225/" style="text-decoration: none; color: inherit;">
@@ -91,4 +91,4 @@ layout: home_2
 <li>2023.11.09: <b>Kaifa Lu</b>'s research titled <em>"Impact of shared micromobility system sizes on usage patterns and its planning implications: A comparison between Washington DC and Jacksonville, Florida"</em> has been awarded "Merit Commendation (PhD Research Poster)" in Graduate Student Research Symposium by College of Design, Construction and Planning, University of Florida.</li>
 <li>2021.08.23: <b>Kaifa Lu</b> started his Ph.D. study at the Department of Urban and Regional Planning, University of Florida.</li>
 <br>
-Find more in <a href="https://kaifalu917.github.io/kaifalu_page/news/">Archived News</a>
+Find more in <a href="https://kaifalu.github.io/kaifalu_page/news/">Archived News</a>
