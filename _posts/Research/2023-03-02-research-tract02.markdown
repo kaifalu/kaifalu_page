@@ -23,7 +23,7 @@ author: Kaifa Lu
 <li>{{ "Microtransit & Micromobility System Evaluation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/" }}">Microtransit and Micromobility Inventory in the State of Florida</a></td>
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/" }}">Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona</a></td>
