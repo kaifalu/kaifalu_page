@@ -8,19 +8,63 @@ author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Environmental & Adaptation Planning](https://en.wikipedia.org/wiki/Machine_learning) and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) is a field of inquiry devoted to understanding and building methods that "learn" – that is, methods that leverage data to improve performance on some set of tasks. Machine learning and deep learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. In this track, we aim to present primary modeling paradigms of machine learning and deep learning in urban applications as follows:
-<li>{{ "Machine Learning in Urban Analytics" }}</li>
-<li>{{ "Machine Learning for Time Series" }}</li>
-<li>{{ "Neural Network and Deep Learning" }}</li>
-<li>{{ "Signal and Systems" }}</li>
+<style>
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+[Environmental & Adaptation Planning](https://en.wikipedia.org/wiki/Machine_learning) is the process of planning for reducing environmental impacts of urban infrastructure, mobility, and production, and for adjusting to the effects of climate change to enhance urban resilience. In this track, I aim to investigate environmental analysis of transportation infrastructure, environmental monitoring, and planning for climate change:
+<li>{{ "Transportation Infrastructure" }}</li>
+<li>{{ "Environmental Monitoring & Planning" }}</li>
+<li>{{ "Planning for Climate Change" }}</li>
+<li>{{ "Field Measurement & Numerical Simulation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 <table>
   <tr>
-    <td>Image Recognition of Handwritten Symbols Using Convolutional Neural Network (CNN) Architecture based on Edge Histogram Descriptor (EHD) and Histogram of Oriented Gradient (HOG) Methods</td>
+    <td>Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment</td>
+    <td>Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship</td>
   </tr>
   <tr>
-    <td><img src="assets/Track05_Project01.jpg"></td>
+    <td><img src="assets/Track 05_Project01.jpg"></td>
+    <td><img src="assets/Track 05_Project02.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Investigate the potential of different transportation policies (i.e., traffic restriction policy) and infrastructure planning (i.e., viaduct, street canyon) in improving urban air quality, as well as their impacts on the spatiotemporal distribution patterns of traffic-related pollutants</li>
+    </td>
+    <td>
+      <li>Patent: “He, H., Li, B., Cao, R., <b>Lu, K.</b>, & Luo, Z. (2022). <em>An Intelligent Pod System for Three-Dimensional Atmospheric Environment Monitoring</em> (China Patent, No. CN215932395U). China National Intellectual Property Administration: Patent and Trademark Office.”</li>
+    </td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Evaluation and Prediction of Transprortation Network Resilience Against Extreme Weather Events</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track 05_Project03.png"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Find more in <a href="{{ "https://kaifalu917.github.io/kaifalu_page/track03-urban-resilience" }}">Track 03: Urban Resilience</a></li>
+    </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td><a href="{{ "https://dcp.ufl.edu/iadapt/a-parameterized-climate-change-projection-model-for-hurricane-flooding-wave-action-economic-damages-and-population-dynamics/" }}">A Parameterized Climate Change Projection Model for Hurricane Flooding, Wave Action, Economic Damages, and Population Dynamics</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track 05_Project04.png"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Quantify the potential impact of sea level rise and resulting flooding on population displacement in coastal areas</li>
+      <li>Find that the majority of coastal residents prefer residing near shorelines over towards hinterlands, even if rising sea level would permanently inundate their primary residences in 2080</li>
+    </td>
   </tr>
  </table>
 <h2>{{"Publications"}}</h2>
