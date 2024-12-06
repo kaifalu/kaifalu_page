@@ -23,28 +23,28 @@ author: Kaifa Lu
 <li>{{ "Microtransit & Micromobility System Evaluation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/microtransit-and-micromobility-inventory-in-the-state-of-florida/" }}">Microtransit and Micromobility Inventory in the State of Florida</a></td>
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/examining-data-needs-and-implementation-process-of-av-based-microtransit-service-a-case-study-in-lake-nona/" }}">Examining Data Needs and Implementation Process of AV-based Microtransit Service: A Case Study in Lake Nona</a></td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 02_Project01.jpg"></td>
     <td><img src="assets/Track 02_Project02.jpg"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td><li>Inventory all forms of microtransit and micromobility in Florida, map the geofenced service areas, and identify their relationship, if any, with transit agencies</li></td>
     <td><li>Develop a framework for examining various aspects of the AV-based microtransit system, including policy and government support, infrastructure and technology, service and management, financial sustainability, ridership, and community impact.</li></td>
   </tr>
  </table>
-<table>
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td><a href="{{ "https://dcp.ufl.edu/iadapt/assessment-of-modeling-framework-for-micromobility/" }}">Assessment of Modeling Framework for Micromobility</a></td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 02_Framework.png"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td><li>Develop a modeling framework for micromobility analytics that integrates survey analysis, spatial data analysis, and machine learning to understand their usage patterns, crash patterns, and relationships with public transit in Florida.</li></td>
   </tr>
  </table>
