@@ -20,4 +20,4 @@ You can find my research publications at
 You can check my job market at [LinkedIn](https://www.linkedin.com/in/kaifa-lu-828676225/)
 
 You can find my source codes for maching learning and deep learning at
-[Github](https://github.com/kaifalu917)
+[Github](https://github.com/kaifalu)
