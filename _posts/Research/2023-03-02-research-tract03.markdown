@@ -53,9 +53,9 @@ author: Kaifa Lu
  </table>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
-1. Yang, X., Li, X., <b>Lu, K.</b>, & Peng, Z. (2023). Integrating Rural Livelihood Resilience and Sustainability for Post-disaster Community Relocation: A Theoretical Framework and Empirical Study. <em>Natural Hazards</em>, 116(2), 1775-1803 <a href="https://doi.org/10.1007/s11069-022-05739-4">[Text]</a>.
-2. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
-3. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+1. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
+2. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+3. Yang, X., Li, X., <b>Lu, K.</b>, & Peng, Z. (2023). Integrating Rural Livelihood Resilience and Sustainability for Post-disaster Community Relocation: A Theoretical Framework and Empirical Study. <em>Natural Hazards</em>, 116(2), 1775-1803 <a href="https://doi.org/10.1007/s11069-022-05739-4">[Text]</a>.
 <br>
 <h4>{{"Book Chapters"}}</h4>
 1. Peng, Z., Zhai, W., <b>Lu, K.</b> (2022). <em>Smart, Sustainable, and Resilient Transportation System</em>. In: Li, B., Shi, X., Zhu, AX., Wang, C., Lin, H. (eds) New Thinking in GIScience. Springer, Singapore <a href="https://doi.org/10.1007/978-981-19-3816-0_34">[Text]</a>.
