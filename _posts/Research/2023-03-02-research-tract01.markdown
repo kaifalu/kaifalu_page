@@ -22,7 +22,7 @@ author: Kaifa Lu
 <li>{{ "Deep Reinforcement Learning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td>Dissertation: AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation</td>
   </tr>
