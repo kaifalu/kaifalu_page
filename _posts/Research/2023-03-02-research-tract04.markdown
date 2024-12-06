@@ -8,29 +8,62 @@ author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Transportation Policy & Planning](https://transportgeography.org/contents/chapter4/transportation-and-environment/) is the collection of environmental impacts of transportation systems, from infrastructures to vehicle operations, ranging from noise, the emission of pollutants to climate change. In this track, we aim to investigate environmental analysis of transportation infrastructure and environmental evaluation of transportation policy as follows:
-<li>{{ "Urban Viadict" }}</li>
+<style>
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+[Transportation Policy & Planning](https://en.wikipedia.org/wiki/Transportation_planning) is the process of defining future policies, goals, investments, and spatial planning designs to prepare for future needs to move people and goods to destinations. It is typically involved with the evaluation, assessment, design, and siting of transport facilities (generally streets, highways, bike lanes, and public transport lines). In this track, I focus on analysis and evaluation of transportation policies and revenues, as well as the design and planning of railway stations:
 <li>{{ "Traffic Restriction Policy" }}</li>
-<li>{{ "Field Measurement" }}</li>
-<li>{{ "Numerical Simulation" }}</li>
+<li>{{ "Revenue Forecasting & Allocation" }}</li>
+<li>{{ "Infrastructure Design & Planning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
-  <tr>
-    <td>Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment</td>
-    <td>Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship</td>
-  </tr>
-  <tr>
-    <td><img src="assets/Track04_Project01.jpg"></td>
-    <td><img src="assets/Track04_Project02.jpg"></td>
-  </tr>
- </table>
 <table>
   <tr>
     <td>Study on the Integrated Decision-making of Data-driven Intelligent Environment Protection Strategies in Shanghai</td>
   </tr>
   <tr>
-    <td><img src="assets/Track04_Project03.jpg"></td>
+    <td><img src="assets/Track 04_Project01.jpg"></td>
+  </tr>
+  <tr>
+    <td><li>Perform comparative research design and regression discontinuity analysis to investigate the effects of non-local traffic restriction policy on urban air quality</li></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Florida’s Transportation Revenue Forecasting and Allocation Process and Modeling – Phase I</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track 04_Project02.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Develop models to understand the forces that will affect future transportation revenues in Florida</li>
+      <li>Delineate the whole process and concerns of allocating the revenue to Districts and MPOs</li> 
+    </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>RFID-based Automatic Toll System for Roadside Parking</td>
+    <td>Railway Station Design: China Railway Guangzhou & Wuhan Groups</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track 04_Project03.jpg"></td>
+    <td><img src="assets/Track 04_Project04.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Develop an RFID-based automatic toll system for roadside parking to monitor illegal parking behaviors and improve charging efficiency and accuracy</li>
+    </td>
+    <td>
+      <li>Cognition practice of passenger and freight transport in Zhuzhou railway station</li>
+      <li>Production practice of Centralized Traffic Control for train scheduling in Wuhan & Guangzhou Dispatch Centers</li>
+      <li>Railway station design and planning for freight transport</li>
+    </td>
   </tr>
  </table>
 <h2>{{"Publications"}}</h2>
