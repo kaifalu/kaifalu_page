@@ -22,14 +22,14 @@ author: Kaifa Lu
 <li>{{ "Deep Reinforcement Learning" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr style="text-align: center;">
     <td>Dissertation: AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation</td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td><img src="assets/Track 01_Dissertation.png"></td>
   </tr>
-  <tr>
+  <tr style="text-align: left;">
     <td><li>{{ "Apply spatial data analysis and machine learning (i.e., Bayesian Additive Regression Tree) models to the data of bike/scooter trips and influencing factors to reveal usage patterns and underlying causes" }}</li>
     <li>{{ "Use deep learning models (i.e., Graph Neural Networks) to predict bike- or scooter-sharing ridership" }}</li>
     <li>{{ "Develop a multi-agent deep reinforcement learning approach to optimize and automate infrastructure planning and vehicle rebalancing toward efficiency, cost-effectiveness, multimodal integration, equity, and resilience" }}</li></td>
