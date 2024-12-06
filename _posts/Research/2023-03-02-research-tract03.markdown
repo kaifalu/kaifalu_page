@@ -8,19 +8,47 @@ author: Kaifa Lu
 ---
 
 <h2>{{"Overview"}}</h2>
-[Urban Resilience](https://en.wikipedia.org/wiki/Urban_resilience) is an emerging discipline to study the ability of an urban system-and all its constituent socio-ecological and socio-technical networks across temporal and spatial scales-to maintain or rapidly return to desired functions in the face of a disturbance, to adapt to change, and to quickly transform systems that limit current or future adaptive capacity ([Meerow et al. 2016](https://doi.org/10.1016/j.landurbplan.2015.11.011)). In this track, we focus on resilience of urban transportation network to investigate the impact of extreme weather events on urban mobility system as follows:
-<li>{{ "Vulnerability Assessment Approach" }}</li>
+<style>
+      li {
+        padding-left: 40px;
+        line-height: 2;
+        text-indent: -20px;
+      }
+    </style>
+[Urban Resilience](https://en.wikipedia.org/wiki/Urban_resilience) is an emerging discipline to study the ability of an urban system - all its constituent socio-ecological and socio-technical networks across temporal and spatial scales - to maintain or rapidly return to desired functions in the face of a disturbance, to adapt to change, and to quickly transform systems that limit current or future adaptive capacity ([Meerow et al. 2016](https://doi.org/10.1016/j.landurbplan.2015.11.011)). In this track, I focus on performance resilience of urban transportation networks to investigate the impact of extreme weather events on network performance and urban mobility:
+<li>{{ "Extreme Weather Events" }}</li>
+<li>{{ "Vulnerability Assessment" }}</li>
 <li>{{ "Transportation Network Resilience" }}</li>
-<li>{{ "Characterization of Mobility Resilience" }}</li>
-<li>{{ "Prediction of Mobility Resilience" }}</li>
+<li>{{ "Characterization of Performance Resilience" }}</li>
+<li>{{ "Prediction of Performance Resilience" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
 <table>
   <tr>
-    <td>Modeling Florida’s Highway Network Resilience Against Sea Level Rise and Hurricanes</td>
+    <td>Characterizing Miami-Dade County's Highway Network Resilience Against Hurricanes</td>
   </tr>
   <tr>
-    <td><img src="assets/Track02_Project01.jpg"></td>
+    <td><img src="assets/Track 03_Project01.png"></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Analyze changes in average traffic volume and median traffic speed due to disruptions to quantify volume and speed resilience</li>
+      <li>Identify four resilience phases including negative volume, positive speed (80% of networks); both negative (17%); both positive (0.6%); positive volume, negative speed (2.4%) in Miami-Dade County</li>
+    </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Predicting Miami-Dade County's Highway Network Resilience Against Hurricanes</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Track 03_Project02.jpg"></td>
+  </tr>
+  <tr>
+     <td>
+       <li>Develop a Spatiotemporal Graph Convolutional Recurrent Neural Network (ST-GCRNN) model to forecast highway network resilience</li>
+       <li>Compare different methods for constructing undirected and directed geospatial graphs, separarely based on geographic, land use, and population density similarities</li>
+     </td>
   </tr>
  </table>
 <h2>{{"Publications"}}</h2>
