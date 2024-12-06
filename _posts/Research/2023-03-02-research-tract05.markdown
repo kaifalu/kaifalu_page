@@ -22,7 +22,7 @@ author: Kaifa Lu
 <li>{{ "Field Measurement & Numerical Simulation" }}</li>
 <br>
 <h2>{{"Research Project"}}</h2>
-<table>
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td>Study on the Impact of Urban Transportation Policy and Facility Construction on Atmospheric Environment</td>
     <td>Vertical Observation Technologies of Atmospheric Pollution Based on Unmanned Aerial Vehicle and Heavy Load Airship</td>
