@@ -47,7 +47,7 @@ author: Kaifa Lu
   <tr style="text-align: left;">
      <td>
        <li>Develop a Spatiotemporal Graph Convolutional Recurrent Neural Network (ST-GCRNN) model to forecast highway network resilience</li>
-       <li>Compare different methods for constructing undirected and directed geospatial graphs, separarely based on geographic, land use, and population density similarities</li>
+       <li>Compare different methods for constructing undirected and directed geospatial graphs, separately based on geographic, land use, and population density similarities</li>
      </td>
   </tr>
  </table>
