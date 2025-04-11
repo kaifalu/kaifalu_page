@@ -16,6 +16,7 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
+<li>2025.04.08: <b>Kaifa Lu</b> published his paper <em>"Unraveling urban bike-sharing dynamics: Spatiotemporal imbalances in bike rentals and returns in Washington D.C."</em> in the Journal Cities.</li>
 <li>2024.11.07-09: <b>Kaifa Lu</b> attended the 2024 ACSP conference held in Seattle, WA, USA, and made an oral presentation titled <em>"Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications"</em>.</li>
 <li>2024.10.23: <b>Kaifa Lu</b> passed the qualifying exam for his Ph.D. degree, and his dissertation title is <em>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</em>.</li>
 <li>2024.08.01: <b>Kaifa Lu</b> recived his Master's Degree in Electrical and Computer Engineering at the University of Florida.</li>
