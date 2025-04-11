@@ -51,8 +51,8 @@ author: Kaifa Lu
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
 1. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)
-2. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
-3. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>. (Under the Second Round of Review)
+2. <li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>, 162, 105967 <a href="https://doi.org/10.1016/j.cities.2025.105967">[Text]</a>.</li>
+3. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
 4. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership. <em>Computer, Environment and Urban Systems</em>. (Under Review)
 5. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
 6. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)
