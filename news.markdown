@@ -16,6 +16,9 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
+<li>2025.07.08: <b>Kaifa Lu</b> published his paper <em>"Assessing the impacts of transit systems and urban street features on bike-sharing ridership: A graph-based spatiotemporal analysis and prediction model"</em> in the Journal of Transport Geography.</li>
+<li>2025.06.02: <b>Kaifa Lu</b> received a Best Presentation/Research Award in AI and Cities: An International Forum for Innovation and Collaboration, hosted by the College of Design, Construction and Planning, University of Florida, USA.</li>
+<li>2025.04.24: <b>Kaifa Lu</b> received a WRS Infrastructure & Environment Inc. Award in Memoriam of Mario Ripol for Outstanding Achievement in Planning Information and Analysis, College of Design, Construction and Planning, University of Florida, USA</li>
 <li>2025.04.08: <b>Kaifa Lu</b> published his paper <em>"Unraveling urban bike-sharing dynamics: Spatiotemporal imbalances in bike rentals and returns in Washington D.C."</em> in the Journal Cities.</li>
 <li>2024.11.07-09: <b>Kaifa Lu</b> attended the 2024 ACSP conference held in Seattle, WA, USA, and made an oral presentation titled <em>"Impact of Shared Micromobility System Sizes on Usage Patterns: Planning Implications"</em>.</li>
 <li>2024.10.23: <b>Kaifa Lu</b> passed the qualifying exam for his Ph.D. degree, and his dissertation title is <em>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</em>.</li>
