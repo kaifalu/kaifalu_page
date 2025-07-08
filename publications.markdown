@@ -69,7 +69,7 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 <h4>{{"Urban Resilience & Deep Learning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)</li>
 <li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Evaluating and Predicting Transportation Network Performance Resilience to Extreme Weather Events: A Spatiotemporal Multi-Graph Diffusion Convolutional Recurrent Neural Network (ST-MGDCRNN) Approach. <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>. (Under Review)</li>
 <br>
 
