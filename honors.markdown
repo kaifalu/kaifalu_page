@@ -25,6 +25,8 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 <br>
 <h2>{{"Awards"}}</h2>
+<li>2025: Best Presentation/Research Award, AI and Cities: An International Forum for Innovation and Collaboration, hosted by the College of Design, Construction and Planning, University of Florida, USA</li>
+<li>2025: WRS Infrastructure & Environment Inc. Award in Memoriam of Mario Ripol for Outstanding Achievement in Planning Information and Analysis, College of Design, Construction and Planning, University of Florida, USA</li>
 <li>2023: Merit Commendation (PhD Research Poster), Graduate Student Research Symposium, College of Design, Construction and Planning, University of Florida, USA</li>
 <li>2021: COSCO maritime scholarship (top 5%), China Ocean Shipping Company, China</li>
 <li>2021: Outstanding Graduates of Shanghai (top 3%), Shanghai, China</li>
