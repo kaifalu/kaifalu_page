@@ -53,8 +53,8 @@ author: Kaifa Lu
  </table>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
-1. <b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)
-2. <b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+1. <b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)
+2. <b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Evaluating and Predicting Transportation Network Performance Resilience to Extreme Weather Events: A Spatiotemporal Multi-Graph Diffusion Convolutional Recurrent Neural Network (ST-MGDCRNN) Approach. <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>. (Under Review)
 3. Yang, X., Li, X., <b>Lu, K.</b>, & Peng, Z. (2023). Integrating Rural Livelihood Resilience and Sustainability for Post-disaster Community Relocation: A Theoretical Framework and Empirical Study. <em>Natural Hazards</em>, 116(2), 1775-1803 <a href="https://doi.org/10.1007/s11069-022-05739-4">[Text]</a>.
 <br>
 <h4>{{"Book Chapters"}}</h4>
