@@ -63,14 +63,14 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 <h4>{{"Transportation Policy & Planning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-Based Machine Learning Model for Analyzing and Predicting Bike-Sharing Ridership. <em>Computer, Environment and Urban Systems</em>. (Under Review)</li>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2024). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Shared Dockless E-scooter Usage in a University Town: Evidence from Gainesville, Florida. <em>Travel Behaviour and Society</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
+<li>Liu, Y., <b>Lu, K.</b>, Hou, Q., et al. (2025). Can Discounted Uber Rides Connecting to Transit Help Regain Bus Ridership? Evidence from Pinellas County, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
 <br>
 
 <h4>{{"Urban Resilience & Deep Learning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2024). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part D: Transport and Environment</em>. (Under the Second Round of Review)</li>
-<li><b>Lu, K.</b>, Liu, Y., Che, L., Zhai, W., Peng, Z. (2024). Leveraging Deep Learning with Geospatial Data Analytics for Quantification and Prediction of Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Zhai, W., Peng, Z. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Evaluating and Predicting Transportation Network Performance Resilience to Extreme Weather Events: A Spatiotemporal Multi-Graph Diffusion Convolutional Recurrent Neural Network (ST-MGDCRNN) Approach. <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>. (Under Review)</li>
 <br>
 
 -----------
