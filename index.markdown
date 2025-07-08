@@ -75,6 +75,7 @@ layout: home_2
 <br>
 <h2>{{"Selected Publications"}}</h2>
 <li><b>Urban Planning AI</b>: Peng, Z., <b>Lu, K.</b>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. <em>Journal of Planning Education and Research</em>, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
+<li><b>Multimodal Integration</b>: <b>Lu, K.</b>, Liu, Y., & Peng, Z. (2025). Assessing the Impacts of Transit Systems and Urban Street Features on Bike-Sharing Ridership: A Graph-based Spatiotemporal Analysis and Prediction Model. <em>Journal of Transport Geography</em>, 128, 104356 <a href="https://doi.org/10.1016/j.jtrangeo.2025.104356">[Text]</a>.</li>
 <li><b>Micromobility</b>: <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>, 162, 105967 <a href="https://doi.org/10.1016/j.cities.2025.105967">[Text]</a>.</li>
 <li><b>Microtransit</b>: Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.</li>
 <li><b>Transportation Planning</b>: <b>Lu, K.</b>, Peng, Z. (2023). Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon. <em>Science of the Total Environment</em>, 858, 159902 <a href="https://doi.org/10.1016/j.scitotenv.2022.159902">[Text]</a>.</li>
@@ -86,6 +87,7 @@ layout: home_2
 -----------
 <br>
 <h2>{{"Key Milestones/News"}}</h2>
+<li>2025.</li>
 <li>2024.10.23: <b>Kaifa Lu</b> passed the qualifying exam for his Ph.D. degree, and his dissertation title is <em>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</em>.</li>
 <li>2024.08.01: <b>Kaifa Lu</b> recived his Master's Degree in Electrical and Computer Engineering at the University of Florida.</li>
 <li>2023.11.15: <b>Kaifa Lu</b> receive a Certificate of Outstanding Merit from the University of Florida International Center (UFIC).</li>
