@@ -11,7 +11,7 @@ This is Kaifa Lu. Email: kaifa.lu@ufl.edu or kflu.917@gmail.com
 
 You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/)
 
-You can download my latest [CV](assets/Kaifa-Lu-CV-24_1203.pdf)
+You can download my latest [CV](assets/Kaifa-Lu-CV.pdf)
 
 You can find my research publications at
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=a8eAKS8AAAAJ) /
