@@ -17,8 +17,8 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
-<li>2024: Machine Learning (ECE) Certificate, Electrical and Computer Engineering, University of Florida, FL, USA</li>
-<li>2024: Urban Analytics (URP) Certificate, Urban and Regional Planning, University of Florida, FL, USA</li>
+<li>2024: Machine Learning (ML) Certificate, Electrical and Computer Engineering, University of Florida, FL, USA</li>
+<li>2024: Urban Analytics (UA) Certificate, Urban and Regional Planning, University of Florida, FL, USA</li>
 <li>2024: Generative AI with Diffusion Models, NVIDIA, Inc., USA</li>
 <li>2023: Data Parallelism: How to Train Deep Learning Models on Multiple GPUs, NVIDIA, Inc., USA</li>
 <li>2022&2023: Certificate of Outstanding Merit, University of Florida International Center (UFIC), University of Florida, FL, USA</li>
