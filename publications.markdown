@@ -24,12 +24,14 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 <h4>{{"Machine Learning & Deep Learning"}}</h4>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impacts of Transit Systems and Urban Street Features on Bike-Sharing Ridership: A Graph-based Spatiotemporal Analysis and Prediction Model. <em>Journal of Transport Geography</em>, 128, 104356 <a href="https://doi.org/10.1016/j.jtrangeo.2025.104356">[Text]</a>.</li>
 <li>Miao, C., Peng, Z., Cui, A., He, X., Chen, F., <b>Lu, K.</b>, ... & Chen, W. (2024). Quantifying and Predicting Air Quality on Different Road Types in Urban Environments Using Mobile Monitoring and Automated Machine Learning. <em>Atmospheric Pollution Research</em>, 15(3), 102015 <a href="https://doi.org/10.1016/j.apr.2023.102015">[Text]</a>.</li>
 <li>Wang, D., Wang, H., <b>Lu, K.</b>, et al. (2022). Regional Prediction of Ozone and Fine Particulate Matter Using Diffusion Convolutional Recurrent Neural Network. <em>International Journal of Environmental Research and Public Health</em>, 19(7), 3988 <a href="https://doi.org/10.3390/ijerph19073988">[Text]</a>.</li>
 <li>Wang, D., Wang, H., Li, C., <b>Lu, K.</b>, et al. (2020). Roadside Air Quality Forecasting in Shanghai with a Novel Sequence-to-sequence Model. <em>International Journal of Environmental Research and Public Health</em>, 17(24), 9471 <a href="https://doi.org/10.3390/ijerph17249471">[Text]</a>.</li>
 <br>
 
 <h4>{{"Transportation Policy and Planning"}}</h4>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impacts of Transit Systems and Urban Street Features on Bike-Sharing Ridership: A Graph-based Spatiotemporal Analysis and Prediction Model. <em>Journal of Transport Geography</em>, 128, 104356 <a href="https://doi.org/10.1016/j.jtrangeo.2025.104356">[Text]</a>.</li>
 <li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>, 162, 105967 <a href="https://doi.org/10.1016/j.cities.2025.105967">[Text]</a>.</li>
 <li>Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.</li>
 <li><b>Lu, K.</b>, Peng, Z. (2023). Impacts of Viaduct and Geometry Configurations on the Distribution of Traffic-related Particulate Matter in Urban Street Canyon. <em>Science of the Total Environment</em>, 858, 159902 <a href="https://doi.org/10.1016/j.scitotenv.2022.159902">[Text]</a>.</li>
