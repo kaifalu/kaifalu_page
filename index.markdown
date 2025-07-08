@@ -87,7 +87,8 @@ layout: home_2
 -----------
 <br>
 <h2>{{"Key Milestones/News"}}</h2>
-<li>2025.</li>
+<li>2025.06.02: <b>Kaifa Lu</b> received a <em>"Best Presentation/Research Award"</em> in AI and Cities: An International Forum for Innovation and Collaboration, hosted by the College of Design, Construction and Planning, University of Florida, USA.</li>
+<li>2025.04.24: <b>Kaifa Lu</b> received a <em>"WRS Infrastructure & Environment Inc. Award in Memoriam of Mario Ripol for Outstanding Achievement in Planning Information and Analysis"</em>, College of Design, Construction and Planning, University of Florida, USA</li>
 <li>2024.10.23: <b>Kaifa Lu</b> passed the qualifying exam for his Ph.D. degree, and his dissertation title is <em>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</em>.</li>
 <li>2024.08.01: <b>Kaifa Lu</b> recived his Master's Degree in Electrical and Computer Engineering at the University of Florida.</li>
 <li>2023.11.15: <b>Kaifa Lu</b> receive a Certificate of Outstanding Merit from the University of Florida International Center (UFIC).</li>
