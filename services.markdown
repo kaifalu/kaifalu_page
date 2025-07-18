@@ -29,6 +29,9 @@ date:   2023-03-03 10:05:10 -0500
 <li>Environmental Research</li>
 <li>Air Quality, Atmosphere & Health</li>
 <li>Stochastic Environmental Research and Risk Assessment</li>
+<li>Transportation Research Part D: Transport and Environment</li>
+<li>Scientific Reports</li>
+<li>Computational Urban Science</li>
 <br>
 <br>
 <h2>{{"Affiliations"}}</h2>
