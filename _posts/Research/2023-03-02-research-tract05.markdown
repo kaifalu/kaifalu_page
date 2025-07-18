@@ -69,7 +69,7 @@ author: Kaifa Lu
  </table>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
-1. <b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)
+1. <b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under the Second Round of Review)
 2. Miao, C., Peng, Z., Cui, A., He, X., Chen, F., <b>Lu, K.</b>, ... & Chen, W. (2024). Quantifying and Predicting Air Quality on Different Road Types in Urban Environments Using Mobile Monitoring and Automated Machine Learning. <em>Atmospheric Pollution Research</em>, 15(3), 102015 <a href="https://doi.org/10.1016/j.apr.2023.102015">[Text]</a>.
 3. Jin, M., Gallagher, J., Li, X., <b>Lu, K.</b>, Peng, Z., & He, H. (2024). Characterizing the Distribution Pattern of Traffic-related Air Pollutants in Near-road Neighborhoods. <em>Environmental Monitoring and Assessment</em>, 196(8), 767 <a href="https://doi.org/10.1007/s10661-024-12917-3">[Text]</a>.
 4. Lu, D., He, H., Zhao, H., <b>Lu, K.</b>, Peng, Z., & Li, J. (2023). Quantifying Traffic-related Carbon Emissions on Elevated Roads through On-road Measurements. <em>Environmental Research</em>, 231, 116200 <a href="https://doi.org/10.1016/j.envres.2023.116200">[Text]</a>.
