@@ -63,13 +63,13 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 
 <h4>{{"Transportation Policy & Planning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Shared Dockless E-scooter Usage in a University Town: Evidence from Gainesville, Florida. <em>Travel Behaviour and Society</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Shared Dockless E-scooter Usage in a University Town: Evidence from Gainesville, Florida. <em>Travel Behaviour and Society</em>. (Under the Second Round of Review)</li>
 <li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
-<li>Liu, Y., <b>Lu, K.</b>, Hou, Q., et al. (2025). Can Discounted Uber Rides Connecting to Transit Help Regain Bus Ridership? Evidence from Pinellas County, Florida. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
+<li>Liu, Y., <b>Lu, K.</b>, Hou, Q., et al. (2025). Can Discounted Uber Rides Connecting to Transit Help Regain Bus Ridership? Evidence from Pinellas County, Florida. <em>Transport Policy</em>. (Under Review)</li>
 <br>
 
 <h4>{{"Urban Resilience & Deep Learning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under the Second Round of Review)</li>
 <li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Evaluating and Predicting Transportation Network Performance Resilience to Extreme Weather Events: A Spatiotemporal Multi-Graph Diffusion Convolutional Recurrent Neural Network (ST-MGDCRNN) Approach. <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>. (Under Review)</li>
 <br>
 
