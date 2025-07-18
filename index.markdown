@@ -20,7 +20,7 @@ layout: home_2
         line-height: 0.85;
       }
     </style>
-    <p>Ph.D. Candidate (2025) in Urban Planning, University of Florida, USA</p>
+    <p>Ph.D. (2025) in Urban Planning, University of Florida, USA</p>
     <p>M.S. (2024) in Electrical and Computer Engineering, University of Florida, USA</p>
     <p>M.S. (2021) in Transportation Engineering, Shanghai Jiao Tong University, China</p>
     <p>B.S. (2018) in Transportation Engineering, Central South University, China</p>
