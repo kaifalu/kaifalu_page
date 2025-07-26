@@ -16,6 +16,7 @@ date:   2023-03-03 10:05:10 -0500
         text-indent: -20px;
       }
     </style>
+<li>2025.07.21: <b>Kaifa Lu</b> passed his oral dissertation defense in Urban and Regional Planning, University of Florida, USA., and his dissertation title is <em>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</em>.</li>
 <li>2025.07.08: <b>Kaifa Lu</b> published his paper <em>"Assessing the impacts of transit systems and urban street features on bike-sharing ridership: A graph-based spatiotemporal analysis and prediction model"</em> in the Journal of Transport Geography.</li>
 <li>2025.06.02: <b>Kaifa Lu</b> received a <em>"Best Presentation/Research Award"</em> in AI and Cities: An International Forum for Innovation and Collaboration, hosted by the College of Design, Construction and Planning, University of Florida, USA.</li>
 <li>2025.04.24: <b>Kaifa Lu</b> received a <em>"WRS Infrastructure & Environment Inc. Award in Memoriam of Mario Ripol for Outstanding Achievement in Planning Information and Analysis"</em>, College of Design, Construction and Planning, University of Florida, USA</li>
