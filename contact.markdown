@@ -7,9 +7,9 @@ date:   2023-03-03 10:01:10 -0500
 
 ![contact-me](/assets/contact-me.jpg){:class="img-responsive"}
 
-This is Kaifa Lu. Email: kaifa.lu@ufl.edu or kflu.917@gmail.com
+This is Kaifa Lu. Email: kflu.917@gmail.com
 
-You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/)
+You can find out more info about me, as well as our research team [iAdapt](https://dcp.ufl.edu/iadapt/) and [CECREH](https://www.depts.ttu.edu/cecreh/about.php)
 
 You can download my latest [CV](assets/Kaifa-Lu-CV.pdf)
 
@@ -19,5 +19,5 @@ You can find my research publications at
 
 You can check my job market at [LinkedIn](https://www.linkedin.com/in/kaifa-lu-828676225/)
 
-You can find my source codes for maching learning and deep learning at
+You can find my source codes for maching learning, deep learning, and reinforcement learning at
 [Github](https://github.com/kaifalu)
