@@ -3,7 +3,7 @@ layout: post_new
 title:  "Track 03: Urban Resilience & Disaster Recovery"
 date:   2024-11-30 10:08:10 -0500
 categories: jekyll update
-permalink: 'track03-urban-resilience'
+permalink: 'track03-urban-resilience-disaster-recovery'
 author: Kaifa Lu
 ---
 
