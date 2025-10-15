@@ -20,7 +20,9 @@ date:   2023-03-03 10:05:10 -0500
     </style>
 <h4>{{"Urban Planning AI"}}</h4>
 <li>Peng, Z., <b>Lu, K.</b>, Liu, Y., & Zhai, W. (2024). The Pathway of Urban Planning AI: From Planning Support to Plan-Making. <em>Journal of Planning Education and Research</em>, 44(4), 2263-2279 <a href="https://doi.org/10.1177/0739456X231180568">[Text]</a>.</li>
+<li><b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation (Dissertation). University of Florida</li>
 <li>Liu, Y., Peng, Z., Hou, Q., & <b>Lu, K.</b> (2024). The Role, Opportunities, and Challenges of Generative AI in Comprehensive Planning of American Small Towns – Using ChatGPT as an Example (in Chinese). <em>Journal of Urban Regional Planning</em>, 16(1), 215-228.</li>
+<br>
 <br>
 
 <h4>{{"Machine Learning & Deep Learning"}}</h4>
@@ -59,17 +61,21 @@ date:   2023-03-03 10:05:10 -0500
 <br>
 <h3>{{"Manuscripts Under Review"}}</h3>
 <h4>{{"Deep Reinforcement Learning"}}</h4>
-<li><b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)</li>
+<li><b>Lu, K.</b>, Qing, H., Zhang, Q., Liu, Y., Peng, Z. (2025). Planning Automation of Shared Micromobility System Design: A Multi-Agent Deep Reinforcement Learning Approach. <em>Nature Computational Science</em> (Under Review)</li>
+<li>Peng, Z., <b>Lu, K.</b>, Liu, Y., Hou, Q., Zhang, Q. (2025). AI-Human Co-Creation in Urban Planning: The CORE Framework for Symbiotic Planning Theory. <em>Journal of the American Planning Association</em> (Under Review)</li>
 <br>
 
 <h4>{{"Transportation Policy & Planning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Shared Dockless E-scooter Usage in a University Town: Evidence from Gainesville, Florida. <em>Travel Behaviour and Society</em>. (Under the Second Round of Review)</li>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Campus-Centric Micromobility: Shared Dockless Scooter Usage in University vs. Non-University Towns. <em>Transportation Research Part D: Transport and Environment</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Leveraging Shared Micromobility to Boost Transit Accessibility and Ridership: Evidence from Florida Cities on Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)</li>
+<li><b>Lu, K.</b>, Peng, Z. (2025). Impact of Shared Micromobility System Sizes on Usage Patterns and Their Planning Implications: A Meta-Analysis of 52 U.S. Cities. <em>Journal of the American Planning Association</em>. (Under Review)</li>
 <li>Liu, Y., <b>Lu, K.</b>, Hou, Q., et al. (2025). Can Discounted Uber Rides Connecting to Transit Help Regain Bus Ridership? Evidence from Pinellas County, Florida. <em>Transport Policy</em>. (Under Review)</li>
+<li>Hou, Q., Hafiz, D., Peng, Z., <b>Lu, K.</b>. (2025). From Perception to Adoption: A State-of-the-Art Review of Theoretical Approaches to Fully Autonomous Vehicle Acceptance and Transportation System Impacts. <em>Transport Reviews</em>. (Under Review)</li>
 <br>
 
 <h4>{{"Urban Resilience & Deep Learning"}}</h4>
-<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (Under the Second Round of Review)</li>
+<li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Characterizing Performance Resilience of Transportation Networks against Extreme Weather Events. <em>Applied Geography</em>. (In Press)</li>
+<li>Yang, X., <b>Lu, K.</b>, Li, X. (2025). Assessing Vulnerability of Rural Buildings to Tornadoes and Their Relationships with Building Attributes and Surrounding Land Uses. <em>International Journal of Disaster Risk Reduction</em>. (Under Review)</li>
 <li><b>Lu, K.</b>, Liu, Y., Peng, Z., Zhai, W. (2025). Evaluating and Predicting Transportation Network Performance Resilience to Extreme Weather Events: A Spatiotemporal Multi-Graph Diffusion Convolutional Recurrent Neural Network (ST-MGDCRNN) Approach. <em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>. (Under Review)</li>
 <br>
 
