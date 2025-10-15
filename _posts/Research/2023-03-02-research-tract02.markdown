@@ -50,12 +50,13 @@ author: Kaifa Lu
  </table>
 <h2>{{"Publications"}}</h2>
 <h4>{{"Journal Papers"}}</h4>
-1. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation. (Under Preparation)
+1. <b>Lu, K.</b>, Peng, Z. (2025). AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation (Dissertation). University of Florida
 2. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impacts of Transit Systems and Urban Street Features on Bike-Sharing Ridership: A Graph-based Spatiotemporal Analysis and Prediction Model. <em>Journal of Transport Geography</em>, 128, 104356 <a href="https://doi.org/10.1016/j.jtrangeo.2025.104356">[Text]</a>.
 3. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Unraveling Urban Bike-sharing Dynamics: Spatiotemporal Imbalances in Bike Rentals and Returns in Washington D.C. <em>Cities</em>, 162, 105967 <a href="https://doi.org/10.1016/j.cities.2025.105967">[Text]</a>.
 4. Liu, Y., <b>Lu, K.</b>, Peng, Z., & Zhai, W. (2024). Autonomous Shuttle Acceptance in an American Suburban Context: A Revealed Preference Study in Lake Nona, Florida. <em>Travel Behaviour and Society</em>, 37, 100865 <a href="https://doi.org/10.1016/j.tbs.2024.100865">[Text]</a>.
-5. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Analysis of Dockless Shared E-scooter Usage in a University Town: Insights from Gainesville, Florida. <em>Travel Behaviour and Society</em>. (Under the Second Round of Review)
-6. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Assessing the Impact of Dockless Shared E-scooters on Transit Accessibility and Ridership: Insights from Florida Cities for Multimodal Integration. <em>Transportation Research Part A: Policy and Practice</em>. (Under Review)
+5. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Spatial Dynamics of Campus-Centric Micromobility: Shared Dockless Scooter Usage in University vs. Non-University Towns. <em>Transportation Research Part D: Transport and Environment</em>. (Under Review)
+6. <b>Lu, K.</b>, Liu, Y., Peng, Z. (2025). Leveraging Shared Micromobility to Boost Transit Accessibility and Ridership: Evidence from Florida Cities on Multimodal Integration. <em>Travel Behaviour and Society</em>. (Under Review)
+7. <b>Lu, K.</b>, Peng, Z. (2025). Impact of Shared Micromobility System Sizes on Usage Patterns and Their Planning Implications: A Meta-Analysis of 52 U.S. Cities. <em>Journal of the American Planning Association</em>. (Under Review)
 <br>
 <h4>{{"Presentations & Talks"}}</h4>
 1. <b>2025.01: Transportation Research Board 104th Annual Meeting</b>. <em>Integrating Public Transit Effects and Street View Imagery into a Dynamic Spatiotemporal Graph-based Machine Learning Model for Predicting Bike-sharing Ridership</em>. Washington D.C., USA.
