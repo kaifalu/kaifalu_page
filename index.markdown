@@ -59,11 +59,12 @@ layout: home_2
         text-indent: -20px;
       }
     </style>
-<p1>I am seeking a Postdoc or faculty position in fields of transport planning, transportation modeling, urban planning AI, urban analytics, and urban studies. I have received a PhD degree in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">iAdapt</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
+<p1>I am currently working as a Postdoctoral Research Associate position in the Department of Civil, Environmental & Construction Engineering at Texas Tech University. My research portfolio contributes to the intersection of climate resilience, disaster recovery, housing, transport planning, transportation modeling, urban planning AI, urban analytics, and urban studies. I have received a PhD degree in Urban and Regional Planning, <a href="https://dcp.ufl.edu/iadapt/">iAdapt</a> (International Center for Adaptation Planning and Design), at the University of Florida, USA. My Ph.D. dissertation title is <i>"AI-Driven Approach to Optimize and Automate Shared Micromobility System Planning and Operation"</i>. My research interest includes:</p1>
 <br>
 <li>Microtransit & Micromobility</li>
 <li>Urban Planning AI</li>
 <li>Urban Resilience</li>
+<li>Disaster Recovery & Housing</li>
 <li>Transportation Policy & Planning</li>
 <li>Environmental & Adaptation Planning</li>
 <li>Transportation Network Modeling and Optimization</li>
